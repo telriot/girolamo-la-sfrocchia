@@ -29,7 +29,7 @@ export default function Post({
   };
 }) {
   return (
-    <Layout>
+    <Layout navBottom={true}>
       <Head>
         <title>{postData.title}</title>
       </Head>
