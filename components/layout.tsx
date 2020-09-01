@@ -6,7 +6,12 @@ import Typography from "@material-ui/core/Typography";
 import NavbarTop from "../components/NavbarTop";
 const useStyles = makeStyles((theme) => ({
   container: { padding: theme.spacing(4, 2) },
-  headerDiv: { marginBottom: theme.spacing(12) },
+  headerDiv: {
+    marginBottom: theme.spacing(12),
+    [theme.breakpoints.down("xs")]: {
+      marginBottom: theme.spacing(6),
+    },
+  },
   headerDivSm: {
     display: "flex",
     justifyContent: "space-between",
@@ -16,7 +21,13 @@ const useStyles = makeStyles((theme) => ({
     },
   },
   header: { fontFamily: "Bebas Neue", cursor: "pointer" },
-  subHeader: { padding: theme.spacing(0, 4, 6), fontWeight: 300 },
+  subHeader: {
+    padding: theme.spacing(0, 4, 6),
+    fontWeight: 300,
+    [theme.breakpoints.down("xs")]: {
+      padding: theme.spacing(0, 4, 3),
+    },
+  },
   main: { marginBottom: theme.spacing(4) },
 }));
 

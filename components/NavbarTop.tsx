@@ -10,6 +10,9 @@ const useStyles = makeStyles((theme) => ({
     flexDirection: "column",
     alignItems: "flex-end",
     justifyContent: "space-between",
+    [theme.breakpoints.down(480)]: {
+      alignItems: "center",
+    },
   },
   navDivSm: {
     display: "flex",
@@ -27,6 +30,9 @@ const useStyles = makeStyles((theme) => ({
     padding: theme.spacing(0.5, 0),
     "&:hover": {
       color: blue[700],
+    },
+    [theme.breakpoints.down("xs")]: {
+      fontSize: theme.typography.h5.fontSize,
     },
   },
   navLinkSm: {
@@ -46,6 +52,7 @@ const useStyles = makeStyles((theme) => ({
   },
   linkDiv: {},
 }));
+
 export default function NavbarTop({
   small,
   className,
@@ -58,7 +65,6 @@ export default function NavbarTop({
   return (
     <Container
       className={clsx([small ? classes.navDivSm : classes.navDiv, className])}
-      maxWidth="md"
     >
       <Link
         underline="none"
