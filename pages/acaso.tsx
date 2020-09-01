@@ -1,17 +1,20 @@
 import Head from "next/head";
-import Layout, { siteTitle } from "../components/layout";
+import Layout from "../components/layout";
 import { getSortedPostsData, getPostData } from "../lib/posts";
 import { GetStaticProps } from "next";
 import { makeStyles } from "@material-ui/core/styles";
-import MuiMarkdown from "../components/MuiToMarkdown";
 import Container from "@material-ui/core/Container";
+import MuiMarkdown from "../components/MuiToMarkdown";
 export const getStaticProps: GetStaticProps = async () => {
   const allPostsData = getSortedPostsData();
-  const lastPost =
-    allPostsData.length && (await getPostData(allPostsData[0].id));
+  const randomPost =
+    allPostsData.length &&
+    (await getPostData(
+      allPostsData[Math.floor(Math.random() * allPostsData.length)].id
+    ));
   return {
     props: {
-      lastPost,
+      randomPost,
     },
   };
 };
@@ -21,25 +24,23 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 export default function Home({
-  lastPost,
+  randomPost,
 }: {
-  lastPost: {
+  randomPost: {
     date: string;
     title: string;
     id: string;
-    //contentHtml: string;
     unprocessedContent: string;
   };
 }) {
   const classes = useStyles();
   return (
-    <Layout home={true}>
+    <Layout navBottom={true}>
       <Head>
-        <title>{siteTitle}</title>
+        <title>Roba a caso</title>
       </Head>
-
       <Container className={classes.container}>
-        <MuiMarkdown>{lastPost.unprocessedContent}</MuiMarkdown>
+        <MuiMarkdown>{randomPost.unprocessedContent}</MuiMarkdown>
       </Container>
     </Layout>
   );

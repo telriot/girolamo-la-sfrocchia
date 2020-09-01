@@ -1,6 +1,7 @@
 import Layout from "../../components/layout";
 import { getAllPostIds, getPostData } from "../../lib/posts";
 import Head from "next/head";
+import MuiMarkdown from "../../components/MuiToMarkdown";
 
 export async function getStaticPaths() {
   const paths = getAllPostIds();
@@ -24,7 +25,7 @@ export default function Post({
   postData: {
     title: string;
     date?: string;
-    contentHtml?: string;
+    unprocessedContent?: string;
   };
 }) {
   return (
@@ -32,6 +33,7 @@ export default function Post({
       <Head>
         <title>{postData.title}</title>
       </Head>
+      <MuiMarkdown>{postData.unprocessedContent}</MuiMarkdown>
     </Layout>
   );
 }
