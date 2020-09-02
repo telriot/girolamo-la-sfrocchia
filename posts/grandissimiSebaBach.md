@@ -12,7 +12,7 @@ Certo dell'ignoranza dei molti, mi prenderó oggi la briga di mostrarvi come il 
 
 #### Campione del Mondo sin da piccino
 
-- **1685**: Il Bach, in arte _Seba_, nasce ad Eisenach, dove il cavadenti locale dichiara ufficialmente le misure del neonato alle autorità locali: quarantotto centimetri di statura e trentsette di nerchia.
+- **1685**: Il Bach, in arte _Seba_, nasce ad Eisenach, dove il cavadenti locale dichiara ufficialmente le misure del neonato alle autorità locali: quarantotto centimetri di statura e trentsette di nerchia. La madre, convinta di aver partorito due gemelli siamesi affibbia non uno, ma due nomi al figlio, originariamente destinato a chiamarsi Randazzo.
 - **1694**: Al Bach, in un battibaleno, gli moiono la mamma e il babbo, _al Bach_, e lui non fa una piega. Libero dalla tirannia patriarcale inizia a studiare il pianoforte insieme al fratello Maurizio: questi, distrutto da un inevitabile complesso di inferiorità, decide di cancellarsi dalla storia universale e di evocare in tutte le enciclopedie mondiali il simulacro Johann Cristoph Bach per sostituirlo nelle sue chiare insufficienze musicali di fronte ai postumi, o posteri, che dir si voglia.
 - **1703**: Ormai maggiorenne, il Sebastiano Bach si vede rifiutato l'incarico di organista di Sangerhausen, inutile borgo di ignoranti privi di gusto e stretti di vedute. La notizia non fa a tempo a rimbalzare per le sale della cultura europea che già il nostro Seba è selezionato quale musico di corte presso la cappella del Duca Giova Ernesto Terzo a Weimar[^1], città di storia e cultura, dove si guadagna un immediato riconoscimento popolare e tromba tantissimo.
 
