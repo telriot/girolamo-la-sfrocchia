@@ -37,7 +37,7 @@ export default function Home() {
           Il curatore dei testi dell'eccezionale La Sfrocchia &egrave; una
           persona condannata dalle proprie scelte alla solitudine e alle
           amarezze. Scrivigli una letterina{" "}
-          <a className={classes.link} href={contacts.email}>
+          <a className={classes.link} href={`mailto:${contacts.email}`}>
             a questo indirizzo telematico qui
           </a>{" "}
           e lui ti risponder&agrave; con almeno il quaranta per cento della
