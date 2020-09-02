@@ -1,24 +1,31 @@
 import Head from "next/head";
+import { useRouter } from "next/router";
+
 import { GetStaticProps, GetStaticPaths } from "next";
-import { getPostsByTag, getTagsList } from "@lib/capolavori";
+import { getPagesNumber, getPaginatedPosts } from "@lib/capolavori";
 import { makeStyles } from "@material-ui/core/styles";
 import Typography from "@material-ui/core/Typography";
+import Pagination from "@material-ui/lab/Pagination";
 import PostCard from "@components/PostCard";
 import Layout from "@components/layout";
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const paths = await getTagsList();
+  const paths = await getPagesNumber();
   return {
     paths,
     fallback: false,
   };
 };
+
 export const getStaticProps: GetStaticProps = async ({ params }) => {
-  const allPostsData = await getPostsByTag(params.tag);
+  const paginatedPostsData = getPaginatedPosts(params.page);
+  3;
+  const pages = await getPagesNumber();
   return {
     props: {
-      allPostsData,
-      tag: params.tag,
+      paginatedPostsData,
+      page: params.page,
+      pages: pages.length,
     },
   };
 };
@@ -35,30 +42,39 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 export default function Post({
-  allPostsData,
-  tag,
+  paginatedPostsData,
+  page,
+  pages,
 }: {
-  allPostsData: Array<{
+  paginatedPostsData: Array<{
     title: string;
     date?: string;
   }>;
-  tag: string;
+  page: string;
+  pages: number;
 }) {
   const classes = useStyles();
-
+  const router = useRouter();
+  const handlePageChange = (_, value) => {
+    value === 1
+      ? router.push(`/capolavori`)
+      : router.push(`/capolavori/readmore/${value}`);
+  };
   return (
     <Layout>
       <Head>
-        <title>{`#${tag}`}</title>
+        <title>{`Robivecchi ${page}`}</title>
       </Head>
-      <Typography className={classes.header} variant="h4">
-        #{tag}
-      </Typography>
       <div className={classes.postCardsDiv}>
-        {allPostsData.map((post) => (
+        {paginatedPostsData.map((post) => (
           <PostCard key={post.title} post={post} />
         ))}
       </div>
+      <Pagination
+        onChange={handlePageChange}
+        defaultPage={~~page}
+        count={pages}
+      />
     </Layout>
   );
 }
