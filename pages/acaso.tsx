@@ -1,10 +1,11 @@
 import Head from "next/head";
-import Layout from "../components/layout";
-import { getSortedPostsData, getPostData } from "../lib/posts";
 import { GetStaticProps } from "next";
 import { makeStyles } from "@material-ui/core/styles";
 import Container from "@material-ui/core/Container";
-import MuiMarkdown from "../components/MuiToMarkdown";
+import { getSortedPostsData, getPostData } from "../lib/posts";
+import Layout from "@components/layout";
+import MuiMarkdown from "@components/MuiToMarkdown";
+
 export const getStaticProps: GetStaticProps = async () => {
   const allPostsData = getSortedPostsData();
   const randomPost =

@@ -1,11 +1,10 @@
 import Head from "next/head";
-import Layout from "../components/layout";
-import { GetStaticProps } from "next";
 import { makeStyles } from "@material-ui/core/styles";
 import Container from "@material-ui/core/Container";
 import Typography from "@material-ui/core/Typography";
 import blue from "@material-ui/core/colors/blue";
-import { contacts } from "../public/config";
+import Layout from "../components/layout";
+import { contacts } from "@public/config";
 
 const useStyles = makeStyles((theme) => ({
   container: {

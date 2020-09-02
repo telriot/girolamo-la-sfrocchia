@@ -1,10 +1,9 @@
 import React from "react";
 import Link from "@material-ui/core/Link";
-import ReactMarkdown from "markdown-to-jsx";
 import { withStyles, createStyles } from "@material-ui/core/styles";
 import Typography from "@material-ui/core/Typography";
-import PropTypes from "prop-types";
 import { Theme } from "@material-ui/core/styles/createMuiTheme";
+import ReactMarkdown from "markdown-to-jsx";
 
 const styles = ({ spacing }: Theme) =>
   createStyles({
@@ -90,7 +89,3 @@ const options = {
 export default function MuiMarkdown(props) {
   return <ReactMarkdown options={options} {...props} />;
 }
-
-MuiMarkdown.propTypes = {
-  children: PropTypes.string,
-};

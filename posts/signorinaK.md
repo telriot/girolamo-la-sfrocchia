@@ -1,6 +1,7 @@
 ---
 title: "La Signorina K."
 date: "2020-08-10"
+tags: ["istruzione"]
 ---
 
 # La signorina K

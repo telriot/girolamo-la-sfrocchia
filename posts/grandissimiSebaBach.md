@@ -1,7 +1,7 @@
 ---
 title: "I più grandissimi di sempre #1: Johann Sebastian Bach"
 date: "2020-08-30"
-tag: ["grandissimi", "musica"]
+tags: ["grandissimi", "musica"]
 ---
 
 # Il Sebastiano Bach, compositore eccezionale e persona dabbene

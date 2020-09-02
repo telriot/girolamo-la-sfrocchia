@@ -1,7 +1,7 @@
 ---
 title: "Ristoranti di poco pregio #2: Koya"
 date: "2020-08-27"
-tag: ["mangiare"]
+tags: ["mangiare"]
 ---
 
 # Koya

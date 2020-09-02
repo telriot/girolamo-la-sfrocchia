@@ -1,10 +1,11 @@
 import Head from "next/head";
-import Layout, { siteTitle } from "../components/layout";
-import { getSortedPostsData, getPostData } from "../lib/posts";
 import { GetStaticProps } from "next";
-import { makeStyles } from "@material-ui/core/styles";
-import MuiMarkdown from "../components/MuiToMarkdown";
 import Container from "@material-ui/core/Container";
+import { makeStyles } from "@material-ui/core/styles";
+import { getSortedPostsData, getPostData } from "@lib/posts";
+import MuiMarkdown from "@components/MuiToMarkdown";
+import Layout, { siteTitle } from "@components/layout";
+
 export const getStaticProps: GetStaticProps = async () => {
   const allPostsData = getSortedPostsData();
   const lastPost =

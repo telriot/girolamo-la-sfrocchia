@@ -1,16 +1,17 @@
-import Layout from "../../components/layout";
-import { getAllPostIds, getPostData } from "../../lib/posts";
 import Head from "next/head";
-import MuiMarkdown from "../../components/MuiToMarkdown";
+import { getAllPostIds, getPostData } from "@lib/posts";
+import { GetStaticPaths, GetStaticProps } from "next";
+import Layout from "@components/layout";
+import MuiMarkdown from "@components/MuiToMarkdown";
 
-export async function getStaticPaths() {
+export const getStaticPaths: GetStaticPaths = async () => {
   const paths = getAllPostIds();
   return {
     paths,
     fallback: false,
   };
-}
-export const getStaticProps = async ({ params }) => {
+};
+export const getStaticProps: GetStaticProps = async ({ params }: any) => {
   const postData = await getPostData(params.id);
   return {
     props: {

@@ -3,9 +3,15 @@ import Link from "next/link";
 import { makeStyles } from "@material-ui/core/styles";
 import Container from "@material-ui/core/Container";
 import Typography from "@material-ui/core/Typography";
-import NavbarTop from "../components/NavbarTop";
+import NavbarTop from "@components/NavbarTop";
+import Copyright from "./Copyright";
+
 const useStyles = makeStyles((theme) => ({
-  container: { padding: theme.spacing(4, 2) },
+  container: {
+    padding: theme.spacing(4, 2),
+    minHeight: "100vh",
+    position: "relative",
+  },
   headerDiv: {
     marginBottom: theme.spacing(12),
     [theme.breakpoints.down("xs")]: {
@@ -28,7 +34,25 @@ const useStyles = makeStyles((theme) => ({
       padding: theme.spacing(0, 4, 3),
     },
   },
-  main: { marginBottom: theme.spacing(4) },
+  main: {
+    marginBottom: theme.spacing(4),
+    [theme.breakpoints.down("xs")]: {
+      marginBottom: theme.spacing(6),
+    },
+  },
+  footer: {
+    position: "absolute",
+    bottom: 0,
+    left: 0,
+    width: "100%",
+    padding: theme.spacing(2),
+    display: "flex",
+    alignItems: "center",
+    justifyContent: "space-between",
+    [theme.breakpoints.down("xs")]: {
+      flexDirection: "column-reverse",
+    },
+  },
 }));
 
 export const siteTitle = "Girolamo La Sfrocchia";
@@ -78,7 +102,10 @@ export default function Layout({
               <NavbarTop />
             </header>
             <div className={classes.main}>{children}</div>
-            <NavbarTop small={true} />
+            <footer className={classes.footer}>
+              <Copyright />
+              <NavbarTop small={true} />
+            </footer>
           </>
         ) : (
           <>
@@ -95,7 +122,11 @@ export default function Layout({
               <NavbarTop small={true} />
             </header>
             <div className={classes.main}>{children}</div>
-            {navBottom && <NavbarTop small={true} />}
+
+            <footer className={classes.footer}>
+              <Copyright />
+              <NavbarTop small={true} />
+            </footer>
           </>
         )}
       </Container>

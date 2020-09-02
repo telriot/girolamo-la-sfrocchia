@@ -1,8 +1,7 @@
 import { makeStyles } from "@material-ui/core/styles";
-import Link from "./Link";
 import Container from "@material-ui/core/Container";
-import Button from "@material-ui/core/Button";
 import blue from "@material-ui/core/colors/blue";
+import Link from "@components/Link";
 import clsx from "clsx";
 const useStyles = makeStyles((theme) => ({
   navDiv: {
@@ -63,7 +62,7 @@ export default function NavbarTop({
   const classes = useStyles();
 
   return (
-    <Container
+    <div
       className={clsx([small ? classes.navDivSm : classes.navDiv, className])}
     >
       <Link
@@ -100,6 +99,6 @@ export default function NavbarTop({
       >
         Madonne A Caso
       </Link>
-    </Container>
+    </div>
   );
 }

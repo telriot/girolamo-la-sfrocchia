@@ -1,7 +1,7 @@
 ---
 title: "Hayato Matsumoto"
 date: "2020-07-02"
-tag: ["istruzione", "nani"]
+tags: ["istruzione", "nani"]
 ---
 
 # Hayato Matsumoto

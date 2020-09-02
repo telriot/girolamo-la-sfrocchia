@@ -6,9 +6,11 @@ import matter from "gray-matter";
 
 const postsDirectory = path.join(process.cwd(), "posts");
 
-export const getSortedPostsData = (
-  tag?: string
-): Array<{ id: string; date: string; title: string }> => {
+export const getSortedPostsData = (): Array<{
+  id: string;
+  date: string;
+  title: string;
+}> => {
   // Get file names under /posts
   const fileNames = fs.readdirSync(postsDirectory);
   let allPostsData = fileNames.map((fileName) => {
@@ -28,13 +30,10 @@ export const getSortedPostsData = (
       ...(matterResult.data as {
         date: string;
         title: string;
-        tag: Array<string>;
+        tags: Array<string>;
       }),
     };
   });
-  console.log(allPostsData);
-  if (tag)
-    allPostsData = allPostsData.filter((post, i) => post.tag.includes(tag));
   // Sort posts by date
   return allPostsData.sort((a, b) => {
     if (a.date < b.date) {

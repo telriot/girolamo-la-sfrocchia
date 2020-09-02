@@ -1,7 +1,7 @@
 ---
 title: "Ristoranti di poco pregio #1: Tsumoro"
 date: "2020-08-02"
-tag: ["mangiare"]
+tags: ["mangiare"]
 ---
 
 # Tsumoro

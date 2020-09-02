@@ -1,7 +1,7 @@
 ---
 title: "Ristoranti di poco pregio #3: Automobili a bordo risaia"
 date: "2020-08-29"
-tag: ["istruzione", "mangiare"]
+tags: ["istruzione", "mangiare"]
 ---
 
 # Automobili a bordo risaia
@@ -89,15 +89,15 @@ vendere questi frutti del peccato sono molto contenti: me ne fanno sempre assagg
 fine mi fanno anche lo sconto. La frutta in Giappone costa delle cifre esorbitanti, per cui lo sconto
 rappresenta la differenza tra arrivare al ventinove o al trenta del mese: gli spiritosi la smettano subito di ridere, che qui la vita è agra. Ieri però, dopo aver praticamente rubato sette pere a mille
 yen dal capannello più sgarrupato di tutti, abbiamo tentato la fortuna a un altro di questi chioschi
-malmessi [^12] , capitanato da una vecchina tanto brava che nonostante l'età si ricorda sempre di noi e ci
+malmessi[^12] , capitanato da una vecchina tanto brava che nonostante l'età si ricorda sempre di noi e ci
 fa tante feste, anche se ha le mani che tremano e ogni volta che sbuccia una pera la macella.
 Nonostante l'iniziale parvenza di normalità, al momento del conto ci siamo resi conto di come,
 nascosto dietro a certi scatoloni e seduto alla classica scrivania di fòrmica, stesse pronto a
 intervenire il classico pricemaster, un omino viscido, sulla settantina e particolarmente micragnoso,
-messo lì dai plutocrati della JA [^13] per fare in modo che la generosità dei contadini locali non vada a
+messo lì dai plutocrati della JA[^13] per fare in modo che la generosità dei contadini locali non vada a
 intaccare i ricavi della cooperativa agricola. Questi, una volta riconosciuto il mio accento da
 migrante, ce lo ha voluto – perdonatemi il candore dell'espressione – fischiare nel culo, e ci ha fatto
-pagare le stesse sette pere la bellezza di mille e seicento yen [^14] . Io e Juri, che in fondo siamo gente di
+pagare le stesse sette pere la bellezza di mille e seicento yen[^14] . Io e Juri, che in fondo siamo gente di
 buon cuore, abbiamo pagato senza fare una piega, mentre la vecchina si scusava con gli occhi e
 nascondeva un paio di pere omaggio nel sacchetto della spesa come a dire: perdonatelo, è una
 merdaccia. La prossima volta però, prima di entrare nel capannello, ci periteremo di fare un
@@ -106,7 +106,7 @@ fulmini: lui e le sue ridicole pretese da aguzzino.
 
 Ma quello che mi sta a cuore in questo momento è far sapere al mondo che le pere di Tottori sono
 anche più buone di quanto il loro prezzo e le interminabili ore di tragitto necessarie a raggiungere
-questo paradiso della frutta possano fare immaginare: mentre mangiavo una shinkansen [^15] e Juri
+questo paradiso della frutta possano fare immaginare: mentre mangiavo una shinkansen[^15] e Juri
 parlava al telefono con sua madre di una chiave che non riusciamo più a trovare, la scoperta di un
 profumo di noce nelle carni bianchissime di questo pomo magico mi ha permesso di dimenticare
 ogni risentimento e ritrattare tutte le maledizioni lanciate al mastro di prezzi e alla sua patologica
