@@ -73,7 +73,7 @@ export default function Layout({
                 align="center"
                 className={classes.subHeader}
               >
-                Autore grandissimo e migliore di tutti
+                <em>Autore grandissimo e migliore di tutti</em>
               </Typography>
               <NavbarTop />
             </header>

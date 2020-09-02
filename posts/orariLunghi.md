@@ -1,6 +1,7 @@
 ---
 title: "Orari Lunghi"
 date: "2020-06-02"
+tag: ["istruzione"]
 ---
 
 # Orari Lunghi

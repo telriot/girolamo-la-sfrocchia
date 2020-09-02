@@ -69,7 +69,11 @@ export default function Home({
               key={`capolavoro-${i}`}
             >
               <div className={classes.card}>
-                <Typography className={classes.title} variant="h5">
+                <Typography
+                  className={classes.title}
+                  align="center"
+                  variant="h5"
+                >
                   {el.title}
                 </Typography>
                 <Date className={classes.date} dateString={el.date} />

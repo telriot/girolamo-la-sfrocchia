@@ -6,10 +6,12 @@ import matter from "gray-matter";
 
 const postsDirectory = path.join(process.cwd(), "posts");
 
-export function getSortedPostsData() {
+export const getSortedPostsData = (
+  tag?: string
+): Array<{ id: string; date: string; title: string }> => {
   // Get file names under /posts
   const fileNames = fs.readdirSync(postsDirectory);
-  const allPostsData = fileNames.map((fileName) => {
+  let allPostsData = fileNames.map((fileName) => {
     // Remove ".md" from file name to get id
     const id = fileName.replace(/\.md$/, "");
 
@@ -23,9 +25,16 @@ export function getSortedPostsData() {
     // Combine the data with the id
     return {
       id,
-      ...(matterResult.data as { date: string; title: string }),
+      ...(matterResult.data as {
+        date: string;
+        title: string;
+        tag: Array<string>;
+      }),
     };
   });
+  console.log(allPostsData);
+  if (tag)
+    allPostsData = allPostsData.filter((post, i) => post.tag.includes(tag));
   // Sort posts by date
   return allPostsData.sort((a, b) => {
     if (a.date < b.date) {
@@ -34,7 +43,7 @@ export function getSortedPostsData() {
       return -1;
     }
   });
-}
+};
 
 export function getAllPostIds() {
   const fileNames = fs.readdirSync(postsDirectory);

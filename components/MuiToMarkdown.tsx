@@ -75,7 +75,11 @@ const options = {
       component: withStyles(styles)(
         ({ classes, ...props }: { classes: any }) => (
           <li className={classes.listItem}>
-            <Typography component="p" {...props} />
+            <Typography
+              classes={{ root: classes.body1 }}
+              component="p"
+              {...props}
+            />
           </li>
         )
       ),
