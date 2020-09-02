@@ -78,7 +78,7 @@ scolastico, che in virtù di un accordo con l'azienda locale
 per l'educazione, le scuole presso le quali siamo a
 servizio saranno autorizzate, per non dire invitate, a
 mandarci a casa una volta che il nostro lavoro sarà finito,
-a patto che anche gli alunni delle stesse scuole siano giàtornati a casa. Ad oggi, non mi risulta che disposizioni
+a patto che anche gli alunni delle stesse scuole siano già tornati a casa. Ad oggi, non mi risulta che disposizioni
 del genere abbiano avuto applicazione alcuna, come
 dimostra l'ispessirsi di questi calli ai gomiti che mi
 ritrovo a furia di posare alla scrivania. Continuo
@@ -106,7 +106,7 @@ nonostante questo comune disagio, un disagio radicato in
 ogni manifestazione insincera di ospitalità, si ostinano
 per delle ragioni che non riesco pienamente a
 comprendere a tenermi qui, impegnato a far nulla. Io, da
-parte mia, per ragioni di aderenza alla tradizione, nonposso chiedere di essere esonerato da questo far nulla, e
+parte mia, per ragioni di aderenza alla tradizione, non posso chiedere di essere esonerato da questo far nulla, e
 meno che mai posso impegnarmi in domande che
 mettano in questione il senso di queste pratiche, dal
 momento che in questo paese la discussione razionale
@@ -138,7 +138,7 @@ testimoniarlo
 chiarissimamente le pagine di madonne infiammate
 vergate in corsivo che conservo come memento di quel
 giorno che dimenticai il calcolatore a casa.
-In ogni caso, questo anacronistico amore dei Giapponesiper la cancelleria è stato per me, almeno inizialmente,
+In ogni caso, questo anacronistico amore dei Giapponesi per la cancelleria è stato per me, almeno inizialmente,
 oggetto di grande meraviglia. Il passare del tempo mi ha
 permesso tuttavia di riconoscere in questa tendenza
 all'uso della carta il semplice riflesso di un amore per la
@@ -166,7 +166,7 @@ della società, verso un non meglio definibile ma
 nondimeno fantasticabile optimum. Ma i più scettici dei
 miei lettori si saranno già senz'altro resi conto del fatto
 che in questo mirabolante ufficio postale giapponese, in
-questa fabbrica dell'efficienza, del sorriso professionale,altro non viene fatto se non prosaicamente inviare e
+questa fabbrica dell'efficienza, del sorriso professionale, altro non viene fatto se non prosaicamente inviare e
 ricevere posta secondo una tradizione che risale ormai
 all'alba dei temi civilizzati, allo stesso modo in cui lo si
 fa nei rilassatissimi uffici postali del resto del mondo.
@@ -195,7 +195,7 @@ bensì soltanto un beneficiario interno a un gioco
 determinato, che è quello che la società giapponese gioca
 con se stessa e che rappresenta una forma di spreco
 cerimoniale affine a quella del sacrificio del Cristo e alla
-sua riproduzione nella metafora della cerimoniaeucaristica. Il beneficiario è dunque l'ego giapponese
+sua riproduzione nella metafora della cerimonia eucaristica. Il beneficiario è dunque l'ego giapponese
 nella misura in cui prende parte a questo rituale
 masochista di autoflagellazione: un ego i cui valori e la
 cui psicologia della vergona disprezzo nella maniera più
