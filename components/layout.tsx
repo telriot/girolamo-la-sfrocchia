@@ -73,10 +73,9 @@ export default function Layout({
       <Head>
         <link rel="icon" href="/favicon.ico" />
         <meta
-          name="Girolamo la Sfrocchia"
-          content="Gli scritti di Girolamo la Sfrocchia, autore grandissimo e migliore di tutti"
+          name="description"
+          content="Tutti gli scritti di Girolamo la Sfrocchia, autore grandissimo e migliore di tutti"
         />
-        <meta name="og:title" content={siteTitle} />
       </Head>
       <Container maxWidth="md" className={classes.container}>
         {home ? (
@@ -94,6 +93,7 @@ export default function Layout({
 
               <Typography
                 variant="h6"
+                component="h2"
                 align="center"
                 className={classes.subHeader}
               >
