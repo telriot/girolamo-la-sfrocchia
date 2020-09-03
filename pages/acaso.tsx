@@ -9,10 +9,9 @@ import { isProduction, websiteAddress, localAddress } from "public/config";
 export const getServerSideProps: GetServerSideProps = async () => {
   let randomPost = {};
   try {
-    const res = await fetch(
-      `${isProduction ? websiteAddress : localAddress}/api/acaso`
-    );
+    const res = await fetch(`https://www.lasfrocchia.com/api/acaso`);
     randomPost = await res.json();
+    console.log(randomPost);
   } catch (error) {
     console.log(error);
   }
