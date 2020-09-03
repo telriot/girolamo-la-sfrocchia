@@ -22,7 +22,9 @@ export default function Home({
     let randomPost = {};
     try {
       const res = await fetch(
-        `${isProduction ? websiteAddress : localAddress}/api/acaso`
+        isProduction
+          ? "https://www.lasfrocchia.com/.netlify/functions/next_api_acaso"
+          : `${localAddress}/api/acaso`
       );
       randomPost = await res.json();
     } catch (error) {
