@@ -1,20 +1,18 @@
 import Head from "next/head";
-import { GetServerSideProps } from "next";
+import { GetStaticProps } from "next";
 import { makeStyles } from "@material-ui/core/styles";
 import Container from "@material-ui/core/Container";
+import { getSortedPostsData, getPostData } from "../lib/posts";
 import Layout from "@components/layout";
 import MuiMarkdown from "@components/MuiToMarkdown";
-import { isProduction, websiteAddress, localAddress } from "public/config";
 
-export const getServerSideProps: GetServerSideProps = async () => {
-  let randomPost = {};
-  try {
-    const res = await fetch(`https://www.lasfrocchia.com/api/acaso`);
-    randomPost = await res.json();
-    console.log(randomPost);
-  } catch (error) {
-    console.log(error);
-  }
+export const getStaticProps: GetStaticProps = async () => {
+  const allPostsData = getSortedPostsData();
+  const randomPost =
+    allPostsData.length &&
+    (await getPostData(
+      allPostsData[Math.floor(Math.random() * allPostsData.length)].id
+    ));
   return {
     props: {
       randomPost,
