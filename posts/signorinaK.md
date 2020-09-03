@@ -68,7 +68,7 @@ segna trentanove gradi. Io nel mentre penso che con queste temperature morire d'
 proprio impossibile, e confortato da questa fantasia sorrido a Mori-kun, un bambino grassottello di
 undici anni che mi guarda come a dire: davvero?
 
-La signorina K ha ventott'anni e mi ricorda che ha ventott'anni ho conosciuto mia moglie: questo
+La signorina K ha ventott'anni e mi ricorda che a ventott'anni ho conosciuto mia moglie: questo
 avveniva in un periodo nel quale, credendomi stanco dei party fino alle nove del mattino e del
 comfort berlinese, ho iniziato ad appassionarmi allo studio dei caratteri cinesi. Oggi mi ritrovo
 invece ad avere a che fare con il carattere della signorina K, che annuisce a tutto quello che le dico,
