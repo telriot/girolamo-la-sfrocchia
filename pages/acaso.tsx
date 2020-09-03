@@ -38,7 +38,7 @@ export default function Home({
   return (
     <Layout navBottom={true}>
       <Head>
-        <title>Roba a caso</title>
+        <title>{`Roba a caso: ${randomPost.title}`}</title>
       </Head>
       <Container className={classes.container}>
         <MuiMarkdown>{randomPost.unprocessedContent}</MuiMarkdown>
