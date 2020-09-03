@@ -5,7 +5,7 @@ import { NextApiRequest, NextApiResponse } from "next";
 import { getPostData } from "../../lib/posts";
 import { isProduction } from "../../public/config";
 const postsDirectory = isProduction
-  ? path.resolve("../../public/posts")
+  ? path.join(__dirname, "/public/posts")
   : path.resolve("./posts");
 
 export default async (req: NextApiRequest, res: NextApiResponse) => {
