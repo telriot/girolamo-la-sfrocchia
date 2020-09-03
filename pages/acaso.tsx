@@ -5,17 +5,21 @@ import Container from "@material-ui/core/Container";
 import Layout from "@components/layout";
 import MuiMarkdown from "@components/MuiToMarkdown";
 import { isProduction, websiteAddress, localAddress } from "public/config";
+
 export const getServerSideProps: GetServerSideProps = async () => {
-  const res = await fetch(
-    `${isProduction ? websiteAddress : localAddress}/api/acaso`
-  );
-  console.log(res);
-  const randomPost = await res.json();
-  return {
-    props: {
-      randomPost,
-    },
-  };
+  try {
+    const res = await fetch(
+      `${isProduction ? websiteAddress : localAddress}/api/acaso`
+    );
+    const randomPost = await res.json();
+    return {
+      props: {
+        randomPost,
+      },
+    };
+  } catch (error) {
+    console.log(error);
+  }
 };
 
 const useStyles = makeStyles((theme) => ({
