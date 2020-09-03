@@ -41,7 +41,7 @@ certi e indubitabili.
 Tsumoro è un ristorante con delle pretese, eppure si
 trova proprio dentro una baracca, una di quelle
 catapecchie giapponesi degli anni settanta pensate per
-resistere al massimo fino alla decade seguente, edificatain mattoni finti messicani, plastica e malta. La facciata di
+resistere al massimo fino alla decade seguente, edificata in mattoni finti messicani, plastica e malta. La facciata di
 questa struttura è tutta ricoperta di un'edera fittissima,
 che mi impedisce un accesso confortevole alle premesse
 della medesima costringendomi a una genuflessione
@@ -149,7 +149,7 @@ Per quanto riguarda il ristorante in sé e per sé rimane da
 menzionare soltanto la presenza, in fondo alla sala
 principale, di un'altra porta a vetri: questa separa la
 mangiatoia comune, dove regolarmente sediamo io e mia
-moglie, dal privee imperiale con il suo tavolo da sei, ildipinto dell'ultima cena e la tovaglia rossa col cesto della
+moglie, dal privee imperiale con il suo tavolo da sei, il dipinto dell'ultima cena e la tovaglia rossa col cesto della
 frutta. Pur non essendoci mai potuto entrare, una volta ci
 ho visto una famiglia riunita a mangiare polpettoni: ma
 davvero una volta soltanto e sicuramente una famiglia di
@@ -200,7 +200,7 @@ del terzo mondo che pure applicherei pene corporee
 severissime a tutti quanti volessero persistere nel portare
 avanti la barbarie di certi costumi nonostante l'ovvietà
 della loro inadeguatezza. Non esiterei peraltro a inserire
-scelte del genere nella lista dei Cinquecento motivi percui non meriti di sopravvivere al Giudizio Universale,
+scelte del genere nella lista dei Cinquecento motivi per cui non meriti di sopravvivere al Giudizio Universale,
 utilissimo breviario per la sopravvivenza all'Apocalisse
 che da anni ho in mente di stilare al fine di inchiodarlo
 come Lou Tero ai portoni di tutti i principali luoghi di
@@ -226,7 +226,7 @@ internazionale, talvolta facendo di me stesso uno
 spettacolo in un certo qual modo sconveniente. Oggi
 però questo mio rendermi ridicolo non sembra
 importante, dal momento che mia moglie continua a
-mangiare senza fare una piega, del tutto ignorando lemie imprecazioni nei confronti della Ss. Madonna
+mangiare senza fare una piega, del tutto ignorando le mie imprecazioni nei confronti della Ss. Madonna
 eccetera: riprendo quindi a consumare la prelibatezza
 locale e un poco per volta riesco ad arrivare alla fine del
 pasto. Juri, come sempre di buon umore, è pure contenta

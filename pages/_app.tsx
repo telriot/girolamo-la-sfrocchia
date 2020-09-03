@@ -5,8 +5,7 @@ import CssBaseline from "@material-ui/core/CssBaseline";
 import theme from "../styles/theme";
 import Router from "next/router";
 import * as gtag from "@lib/gtag";
-
-const isProduction = process.env.NODE_ENV === "production";
+import { isProduction } from "public/config";
 isProduction &&
   Router.events.on("routeChangeComplete", (url) => gtag.pageview(url));
 

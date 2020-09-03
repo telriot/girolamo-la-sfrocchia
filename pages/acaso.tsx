@@ -2,17 +2,15 @@ import Head from "next/head";
 import { GetServerSideProps } from "next";
 import { makeStyles } from "@material-ui/core/styles";
 import Container from "@material-ui/core/Container";
-import { getSortedPostsData, getPostData } from "../lib/posts";
 import Layout from "@components/layout";
 import MuiMarkdown from "@components/MuiToMarkdown";
-
+import { isProduction, websiteAddress, localAddress } from "public/config";
 export const getServerSideProps: GetServerSideProps = async () => {
-  const allPostsData = await getSortedPostsData();
-  const randomPost =
-    allPostsData.length &&
-    (await getPostData(
-      allPostsData[Math.floor(Math.random() * allPostsData.length)].id
-    ));
+  const res = await fetch(
+    `${isProduction ? websiteAddress : localAddress}/api/acaso`
+  );
+  console.log(res);
+  const randomPost = await res.json();
   return {
     props: {
       randomPost,
