@@ -26,6 +26,7 @@ export default function Home({
           ? "https://www.lasfrocchia.com/.netlify/functions/next_api_acaso"
           : `${localAddress}/api/acaso`
       );
+      console.log("res", res);
       randomPost = await res.json();
     } catch (error) {
       console.log(error);
