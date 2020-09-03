@@ -7,19 +7,20 @@ import MuiMarkdown from "@components/MuiToMarkdown";
 import { isProduction, websiteAddress, localAddress } from "public/config";
 
 export const getServerSideProps: GetServerSideProps = async () => {
+  let randomPost = {};
   try {
     const res = await fetch(
       `${isProduction ? websiteAddress : localAddress}/api/acaso`
     );
-    const randomPost = await res.json();
-    return {
-      props: {
-        randomPost,
-      },
-    };
+    randomPost = await res.json();
   } catch (error) {
     console.log(error);
   }
+  return {
+    props: {
+      randomPost,
+    },
+  };
 };
 
 const useStyles = makeStyles((theme) => ({
