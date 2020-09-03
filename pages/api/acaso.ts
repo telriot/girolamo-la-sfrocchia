@@ -3,8 +3,10 @@ import path from "path";
 import matter from "gray-matter";
 import { NextApiRequest, NextApiResponse } from "next";
 import { getPostData } from "../../lib/posts";
-
-const postsDirectory = path.resolve("./posts");
+import { isProduction } from "../../public/config";
+const postsDirectory = isProduction
+  ? path.resolve("./public/posts")
+  : path.resolve("./posts");
 
 export default async (req: NextApiRequest, res: NextApiResponse) => {
   try {
