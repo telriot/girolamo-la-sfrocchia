@@ -3,6 +3,12 @@ import { AppProps } from "next/app";
 import { ThemeProvider } from "@material-ui/core/styles";
 import CssBaseline from "@material-ui/core/CssBaseline";
 import theme from "../styles/theme";
+import Router from "next/router";
+import * as gtag from "@lib/gtag";
+
+const isProduction = process.env.NODE_ENV === "production";
+isProduction &&
+  Router.events.on("routeChangeComplete", (url) => gtag.pageview(url));
 
 function App({ Component, pageProps }: AppProps) {
   useEffect(() => {

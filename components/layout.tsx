@@ -67,23 +67,10 @@ export default function Layout({
   navBottom?: boolean;
 }) {
   const classes = useStyles();
-  interface MyWindow extends Window {
-    dataLayer: any[];
-  }
-  let window: MyWindow;
 
   return (
     <div>
       <Head>
-        <script
-          async
-          src="https://www.googletagmanager.com/gtag/js?id=UA-177231126-1"
-        ></script>
-        <script>
-          window.dataLayer = window.dataLayer || []; function gtag()
-          {window.dataLayer.push(arguments)}
-          gtag('js', new Date()); gtag('config', 'UA-177231126-1');
-        </script>
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
