@@ -33,7 +33,7 @@ diminuzione del monte ingaggi comunale.
 Qui in Giappone con l’invecchiamento non si scherza, e
 l’età media del personale si è alzata in una stagione di
 una quindicina di anni buoni. Ciò grazie alla sostituzione
-della giovane segretaria vanitosa (23) con unaaffidabilissima sciura giapponese levata direttamente
+della giovane segretaria vanitosa (23) con una affidabilissima sciura giapponese levata direttamente
 dall’archivio di Stockphotos (47); a quella
 dell’insegnante per le classi speciali, un giovane di
 matrice filiniana (29) iscritto sin dalla minore età al
@@ -61,7 +61,7 @@ avrebbe avuto grandissima premura di tagliare il budget
 dedicato alla sanità e all’istruzione per andare a pagare
 dei gran travoni con il cazzo lungo: è piuttosto il
 prodotto inevitabile di una situazione d’emergenza
-ignorata troppo a lungo e colpevolmente, e che oggi èfinalmente giunta al limite. Stando infatti alla tabella
+ignorata troppo a lungo e colpevolmente, e che oggi è finalmente giunta al limite. Stando infatti alla tabella
 esposta sulla lavagna generale, alla sinistra della
 vicedirettrice, il numero complessivo degli alunni non
 supera quest’anno la trentina (28), mostrando picchi
@@ -91,7 +91,7 @@ permetterebbe altrimenti di riportare.
 A dire il vero, già soltanto aver riportato il nome del
 nostro grandissimo potrebbe avere riflessi terribili sul
 mio status di impiegato parastatale: ma come diceva
-Carlo Mars la legge morale dentro di me il cielo stellatoeccetera. Non posso pertanto esimermi dal menzionare la
+Carlo Mars la legge morale dentro di me il cielo stellato eccetera. Non posso pertanto esimermi dal menzionare la
 performance del nostro Massimoto (il cui vero nome di
 qui innanzi avremo la premura di censurare) in
 occasione della cerimonia d’ingresso nel sistema della
@@ -119,7 +119,7 @@ parola chiave. Un uomo noioso, insomma, un uomo
 tanto ottuso quanto brutto e acciaccato (67), un elemento
 selezionato nella sua mansione al fine di dare continuità
 alla schiera infinita degli ammazzatori di passione che da
-tempo immemore siedono ai banchi più elevati di ognisistema educativo che si rispetti.
+tempo immemore siedono ai banchi più elevati di ogni sistema educativo che si rispetti.
 
 Il nostro ragazzo, questo Monsummoto arditissimo,
 sedeva solitario e imperturbabile: ad accompagnarlo
@@ -148,7 +148,7 @@ intenzione alcuna di chiudersi e riposare, o
 semplicemente di annebbiarsi. Manteneva questi un
 equilibrio morale liberalissimo, e ciò nonostante le
 bordate funestissime dei discorsi autocelebrativi e del
-delirio nazionalista del comitato per la salute morale:incorrotto e imperturabile, sui di lui scivolavano gli
+delirio nazionalista del comitato per la salute morale: incorrotto e imperturabile, sui di lui scivolavano gli
 sforzi corruttori della retorica cerimoniale così come i
 colpi degli avversari sembrano soltanto accompagnare le
 finte e le schivate dell’abile karateka. Be water,
@@ -178,7 +178,7 @@ inebriato dalla gaiezza dei suoi hallowwww e dallo
 splendore dei suoi gumoooning, tutti cantati sulle onde
 di un rochenrol immaginario con questa sua voce già
 roca nonostante l’età, come a voler profetizzare un
-futuro di sigarette a catena e mani unte di morchia etortelloni. Fu insomma amore al primo incontro, e non
+futuro di sigarette a catena e mani unte di morchia e tortelloni. Fu insomma amore al primo incontro, e non
 solo: fu amore ricambiato, un incontro di destini. Le
 testimonianze popolari raccolte dagli studenti della
 seconda classe, spettatori quotidiani dei giochi miei e del
@@ -206,7 +206,7 @@ spazio all’inarrestabile manovra del sistema educativo
 giapponese. Il M., che non vado a rammentare più per
 nome per la semplice ragione che il Motomoto che
 pensai di aver incontrato allora al giorno d’oggi non
-esiste più, è stato infatti trasformato in un ingessatoguardiano della morale scolastica, severo con i deboli e
+esiste più, è stato infatti trasformato in un ingessato guardiano della morale scolastica, severo con i deboli e
 servile con i forti. La sua baldanza ha lasciato strada a un
 passo stentato; ha messo su una certa buzzetta e spesso
 mi confessa di avere dolori qui e là, oppure di essere
