@@ -13,11 +13,9 @@ personaggi della storia moderna e contemporanea: quando vedo le sue gote paffute
 mio pensiero corre piuttosto al nipote idrofobo di Goebbels o alla zia sotto sale di Moira Orfei
 fotografati il giorno prima della gita col bus alle terme di Saturnia, e ciò a dispetto del fatto che
 questi, probabilmente, non sono mai neppure esistiti. Se la signorina K avesse avuto ventott'anni
-come Harvey Keitel, ad esempio, tutto sarebbe stato molto più semplice. Avrei potuto dirvi ragazze
-la signorina K ha ventott'anni come Maurizio Costanzo : e tutti avreste capito subito. Io avrei salvato
+come Harvey Keitel, ad esempio, tutto sarebbe stato molto più semplice. Avrei potuto dirvi _ragazze la signorina K ha ventott'anni come Maurizio Costanzo_ : e tutti avreste capito subito. Io avrei salvato
 questo documento, avrei chiuso la cover del mio laptop, e salutando la curva sarei potuto andare a
-stendermi da qualche parte a fare un pisolino. Voi, da parte vostra, avreste pensato _ah! Maurizio
-Costanzo! Ho capito La Sfrocchia! Come se fosse di Dino Erre Collofit (eccetera)!_ Purtroppo però
+stendermi da qualche parte a fare un pisolino. Voi, da parte vostra, avreste pensato _ah! Maurizio Costanzo! Ho capito La Sfrocchia! Come se fosse di Dino Erre Collofit (eccetera)!_ Purtroppo però
 quando incontro la signorina K penso a Maria De Filippi quando ancora era un aborto e veniva
 risucchiata nello spazio attraverso un buco nel lunotto posteriore della Nostromo: ma Maria De
 Filippi è viva e lotta con noi, e il mio tentativo di comunicare in maniera chiara e obiettiva i miei
@@ -51,7 +49,7 @@ La signorina K ha ventott'anni e quando si presenta agli studenti dice che avend
 una fan degli AC/DC, dei koala e del sushi australiano [^6] . Dal momento che gli studenti giapponesi –
 notoriamente in difficoltà con le lingue straniere – non capiscono una parola del dialetto fenicio della signorina K, questa si aiuta nella sua spiegazione con delle fotocopie illustrative in A3 che
 conserva arrotolate in dei tubi da pergamene e che tendono ogni volta a riarrotolarsi nonostante il
-suo gran ganbaru nel tenerle spiegate reggendone le estremità con le mani, i gomiti e il mento. A
+suo gran _ganbaru_ nel tenerle spiegate reggendone le estremità con le mani, i gomiti e il mento. A
 volte immagino di chiederle se preferisce gli AC/DC di Big Balls o quelli di Highway to Hell, ma
 per le stesse ragioni contrattuali di cui sopra generalmente resisto e mi metto a pensare alla
 posizione migliore da assumere alla guida per assicurarsi le migliori possibilità di morte istantanea
@@ -95,7 +93,7 @@ campagna, e devo riconoscere come nonostante i sorprendenti progressi della tecn
 scienze dell'informazione gli insegnamenti impartiti nelle scuole dell'obbligo rimangano di fatto i
 medesimi di quando ero un giovinetto magro, timido e occhialuto. Anche il personale di queste
 strutture rimane di fatto più o meno lo stesso: ignorante, impreparato e frustrato dalla vanità della
-propria posizione. Come ogni mattina la signorina K posa le sue creme per le mani, le sue pile difotocopie e i suoi libri inutili nella mia porzione di tavolino, poi procede a sedersi alla sua scrivania
+propria posizione. Come ogni mattina la signorina K posa le sue creme per le mani, le sue pile di fotocopie e i suoi libri inutili nella mia porzione di tavolino, poi procede a sedersi alla sua scrivania
 vera e propria: quella che condivide con me è solo una scrivania d'immagine da utilizzare al
 palesarsi dell'ispettorato del lavoro per mostrare che non c'è discriminazione tra il personale
 indigeno e quello straniero. Passato qualche minuto cercando di scompigliare la bonaccia che le tira
