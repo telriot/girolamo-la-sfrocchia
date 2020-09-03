@@ -9,8 +9,6 @@ import PostCard from "@components/PostCard";
 import Layout from "@components/layout";
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const ids = getAllPostIds();
-  const idsArr = ids.map((id) => id.params.id);
   const paths = await getTagsList();
   return {
     paths,
@@ -18,6 +16,8 @@ export const getStaticPaths: GetStaticPaths = async () => {
   };
 };
 export const getStaticProps: GetStaticProps = async ({ params }) => {
+  const ids = getAllPostIds();
+  const idsArr = ids.map((id) => id.params.id);
   const allPostsData = await getPostsByTag(params.tag);
   return {
     props: {
