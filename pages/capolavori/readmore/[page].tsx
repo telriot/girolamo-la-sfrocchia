@@ -3,6 +3,8 @@ import { useRouter } from "next/router";
 
 import { GetStaticProps, GetStaticPaths } from "next";
 import { getPagesNumber, getPaginatedPosts } from "@lib/capolavori";
+import { getAllPostIds } from "@lib/posts";
+
 import { makeStyles } from "@material-ui/core/styles";
 import Typography from "@material-ui/core/Typography";
 import Pagination from "@material-ui/lab/Pagination";
@@ -21,11 +23,14 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   const paginatedPostsData = getPaginatedPosts(params.page);
   3;
   const pages = await getPagesNumber();
+  const ids = getAllPostIds();
+  const idsArr = ids.map((id) => id.params.id);
   return {
     props: {
       paginatedPostsData,
       page: params.page,
       pages: pages.length,
+      idsArr,
     },
   };
 };
@@ -45,6 +50,7 @@ export default function Post({
   paginatedPostsData,
   page,
   pages,
+  idsArr,
 }: {
   paginatedPostsData: Array<{
     title: string;
@@ -52,6 +58,7 @@ export default function Post({
   }>;
   page: string;
   pages: number;
+  idsArr: string[];
 }) {
   const classes = useStyles();
   const router = useRouter();
@@ -61,7 +68,7 @@ export default function Post({
       : router.push(`/capolavori/readmore/${value}`);
   };
   return (
-    <Layout>
+    <Layout postIds={idsArr}>
       <Head>
         <title>{`Robivecchi ${page}`}</title>
       </Head>

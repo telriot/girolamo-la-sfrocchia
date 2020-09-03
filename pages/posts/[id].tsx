@@ -1,6 +1,7 @@
 import Head from "next/head";
 import { getAllPostIds, getPostData } from "@lib/posts";
 import { GetStaticPaths, GetStaticProps } from "next";
+
 import Layout from "@components/layout";
 import MuiMarkdown from "@components/MuiToMarkdown";
 
@@ -12,25 +13,30 @@ export const getStaticPaths: GetStaticPaths = async () => {
   };
 };
 export const getStaticProps: GetStaticProps = async ({ params }: any) => {
+  const ids = getAllPostIds();
+  const idsArr = ids.map((id) => id.params.id);
   const postData = await getPostData(params.id);
   return {
     props: {
       postData,
+      idsArr,
     },
   };
 };
 
 export default function Post({
   postData,
+  idsArr,
 }: {
   postData: {
     title: string;
     date?: string;
     unprocessedContent?: string;
   };
+  idsArr: string[];
 }) {
   return (
-    <Layout navBottom={true}>
+    <Layout postIds={idsArr} navBottom={true}>
       <Head>
         <title>{postData.title}</title>
       </Head>

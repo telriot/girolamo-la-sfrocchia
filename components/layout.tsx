@@ -5,6 +5,7 @@ import Container from "@material-ui/core/Container";
 import Typography from "@material-ui/core/Typography";
 import NavbarTop from "@components/NavbarTop";
 import Copyright from "./Copyright";
+import { useRouter } from "next/router";
 
 const useStyles = makeStyles((theme) => ({
   container: {
@@ -61,12 +62,21 @@ export default function Layout({
   children,
   home,
   navBottom,
+  postIds,
 }: {
   children: React.ReactNode;
   home?: boolean;
   navBottom?: boolean;
+  postIds?: string[];
 }) {
   const classes = useStyles();
+  const router = useRouter();
+  const handleRandomClick = () => {
+    const randomRoute = postIds.length
+      ? `/posts/${postIds[Math.floor(Math.random() * postIds.length)]}`
+      : "/";
+    router.push(randomRoute);
+  };
 
   return (
     <div>
@@ -99,12 +109,12 @@ export default function Layout({
               >
                 <em>Autore grandissimo e migliore di tutti</em>
               </Typography>
-              <NavbarTop />
+              <NavbarTop handleRandomClick={handleRandomClick} />
             </header>
             <div className={classes.main}>{children}</div>
             <footer className={classes.footer}>
               <Copyright />
-              <NavbarTop small={true} />
+              <NavbarTop handleRandomClick={handleRandomClick} small={true} />
             </footer>
           </>
         ) : (
@@ -119,13 +129,13 @@ export default function Layout({
                   GRLMLSFRCCH
                 </Typography>
               </Link>
-              <NavbarTop small={true} />
+              <NavbarTop handleRandomClick={handleRandomClick} small={true} />
             </header>
             <div className={classes.main}>{children}</div>
 
             <footer className={classes.footer}>
               <Copyright />
-              <NavbarTop small={true} />
+              <NavbarTop handleRandomClick={handleRandomClick} small={true} />
             </footer>
           </>
         )}

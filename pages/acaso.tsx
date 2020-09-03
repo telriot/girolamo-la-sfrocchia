@@ -2,12 +2,14 @@ import Head from "next/head";
 import { GetStaticProps } from "next";
 import { makeStyles } from "@material-ui/core/styles";
 import Container from "@material-ui/core/Container";
-import { getSortedPostsData, getPostData } from "../lib/posts";
+import { getSortedPostsData, getPostData, getAllPostIds } from "../lib/posts";
 import Layout from "@components/layout";
 import MuiMarkdown from "@components/MuiToMarkdown";
 
 export const getStaticProps: GetStaticProps = async () => {
-  const allPostsData = getSortedPostsData();
+  const ids = await getAllPostIds();
+  const idsArr = ids.map((id) => id.params.id);
+  const allPostsData = await getSortedPostsData();
   const randomPost =
     allPostsData.length &&
     (await getPostData(
@@ -16,6 +18,7 @@ export const getStaticProps: GetStaticProps = async () => {
   return {
     props: {
       randomPost,
+      idsArr,
     },
   };
 };
@@ -26,6 +29,7 @@ const useStyles = makeStyles((theme) => ({
 
 export default function Home({
   randomPost,
+  idsArr,
 }: {
   randomPost: {
     date: string;
@@ -33,10 +37,11 @@ export default function Home({
     id: string;
     unprocessedContent: string;
   };
+  idsArr: string[];
 }) {
   const classes = useStyles();
   return (
-    <Layout navBottom={true}>
+    <Layout postIds={idsArr} navBottom={true}>
       <Head>
         <title>{`Roba a caso: ${randomPost.title}`}</title>
       </Head>

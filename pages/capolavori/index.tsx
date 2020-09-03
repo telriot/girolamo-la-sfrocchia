@@ -7,6 +7,8 @@ import Container from "@material-ui/core/Container";
 import Layout from "@components/layout";
 import PostCard from "@components/PostCard";
 import { getTagsList, getPagesNumber } from "@lib/capolavori";
+import { getAllPostIds } from "@lib/posts";
+
 import Categories from "@components/Categories";
 import Pagination from "@material-ui/lab/Pagination";
 
@@ -14,11 +16,14 @@ export const getStaticProps: GetStaticProps = async () => {
   const allPostsData = getSortedPostsData();
   const tagsList = getTagsList();
   const pages = getPagesNumber();
+  const ids = getAllPostIds();
+  const idsArr = ids.map((id) => id.params.id);
   return {
     props: {
       allPostsData,
       tagsList,
       pages: pages.length,
+      idsArr,
     },
   };
 };
@@ -43,10 +48,12 @@ export default function Home({
   allPostsData,
   tagsList,
   pages,
+  idsArr,
 }: {
   allPostsData: Array<{ id: string; title: string; date: string }>;
   tagsList: any;
   pages: number;
+  idsArr: string[];
 }) {
   const classes = useStyles();
   const router = useRouter();
@@ -57,7 +64,7 @@ export default function Home({
   };
 
   return (
-    <Layout>
+    <Layout postIds={idsArr}>
       <Head>
         <title>Capolavori</title>
       </Head>

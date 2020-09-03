@@ -1,12 +1,16 @@
 import Head from "next/head";
 import { GetStaticProps, GetStaticPaths } from "next";
 import { getPostsByTag, getTagsList } from "@lib/capolavori";
+import { getAllPostIds } from "@lib/posts";
+
 import { makeStyles } from "@material-ui/core/styles";
 import Typography from "@material-ui/core/Typography";
 import PostCard from "@components/PostCard";
 import Layout from "@components/layout";
 
 export const getStaticPaths: GetStaticPaths = async () => {
+  const ids = getAllPostIds();
+  const idsArr = ids.map((id) => id.params.id);
   const paths = await getTagsList();
   return {
     paths,
@@ -19,6 +23,7 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
     props: {
       allPostsData,
       tag: params.tag,
+      idsArr,
     },
   };
 };
@@ -37,17 +42,19 @@ const useStyles = makeStyles((theme) => ({
 export default function Post({
   allPostsData,
   tag,
+  idsArr,
 }: {
   allPostsData: Array<{
     title: string;
     date?: string;
   }>;
   tag: string;
+  idsArr: string[];
 }) {
   const classes = useStyles();
 
   return (
-    <Layout>
+    <Layout postIds={idsArr}>
       <Head>
         <title>{`#${tag}`}</title>
       </Head>

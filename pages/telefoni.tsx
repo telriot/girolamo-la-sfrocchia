@@ -1,10 +1,24 @@
 import Head from "next/head";
+import { GetStaticProps } from "next";
+import { getAllPostIds } from "../lib/posts";
+
 import { makeStyles } from "@material-ui/core/styles";
 import Container from "@material-ui/core/Container";
 import Typography from "@material-ui/core/Typography";
 import blue from "@material-ui/core/colors/blue";
 import Layout from "../components/layout";
 import { contacts } from "@public/config";
+
+export const getStaticProps: GetStaticProps = async () => {
+  const ids = await getAllPostIds();
+  const idsArr = ids.map((id) => id.params.id);
+
+  return {
+    props: {
+      idsArr,
+    },
+  };
+};
 
 const useStyles = makeStyles((theme) => ({
   container: {
@@ -23,11 +37,11 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 
-export default function Home() {
+export default function Home({ idsArr }: { idsArr: string[] }) {
   const classes = useStyles();
 
   return (
-    <Layout>
+    <Layout postIds={idsArr}>
       <Head>
         <title>Contatti</title>
       </Head>
