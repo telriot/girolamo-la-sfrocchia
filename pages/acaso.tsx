@@ -41,7 +41,7 @@ export default function Home({
 }) {
   const classes = useStyles();
   return (
-    <Layout postIds={idsArr} navBottom={true}>
+    <Layout postIds={idsArr}>
       <Head>
         <title>{`Roba a caso: ${randomPost.title}`}</title>
       </Head>

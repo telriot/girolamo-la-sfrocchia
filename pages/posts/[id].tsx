@@ -36,7 +36,7 @@ export default function Post({
   idsArr: string[];
 }) {
   return (
-    <Layout postIds={idsArr} navBottom={true}>
+    <Layout postIds={idsArr}>
       <Head>
         <title>{postData.title}</title>
       </Head>
