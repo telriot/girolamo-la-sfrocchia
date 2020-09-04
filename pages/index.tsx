@@ -10,7 +10,6 @@ export const getStaticProps: GetStaticProps = async () => {
   const allPostsData = getSortedPostsData();
   const ids = getAllPostIds();
   const idsArr = ids.map((id) => id.params.id);
-
   const lastPost =
     allPostsData.length && (await getPostData(allPostsData[0].id));
   return {
@@ -33,18 +32,17 @@ export default function Home({
     date: string;
     title: string;
     id: string;
-    //contentHtml: string;
     unprocessedContent: string;
   };
   idsArr: string[];
 }) {
   const classes = useStyles();
+
   return (
     <Layout postIds={idsArr} home={true}>
       <Head>
         <title>{siteTitle}</title>
       </Head>
-
       <Container className={classes.container}>
         <MuiMarkdown>{lastPost.unprocessedContent}</MuiMarkdown>
       </Container>

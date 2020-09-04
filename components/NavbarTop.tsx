@@ -1,9 +1,10 @@
+import { useRouter } from "next/router";
 import { makeStyles } from "@material-ui/core/styles";
 import Typography from "@material-ui/core/Typography";
-import Button from "@material-ui/core/Button";
 import blue from "@material-ui/core/colors/blue";
 import Link from "@components/Link";
 import clsx from "clsx";
+
 const useStyles = makeStyles((theme) => ({
   navDiv: {
     display: "flex",
@@ -43,17 +44,8 @@ const useStyles = makeStyles((theme) => ({
     },
   },
   navLinkSm: {
-    fontFamily: "Bebas Neue",
     fontSize: theme.typography.h5.fontSize,
     padding: theme.spacing(0, 0.75),
-    color: theme.palette.text.primary,
-    "&:hover": {
-      color: blue[700],
-    },
-    "&:focus": {
-      outline: "none",
-      color: blue[700],
-    },
     [theme.breakpoints.down("xs")]: {
       fontSize: theme.typography.h6.fontSize,
     },
@@ -67,13 +59,25 @@ const useStyles = makeStyles((theme) => ({
 export default function NavbarTop({
   small,
   className,
-  handleRandomClick,
+  postIds,
 }: {
   small?: boolean;
   className?: string | object;
-  handleRandomClick: Function;
+  postIds: string[];
 }) {
   const classes = useStyles();
+  const router = useRouter();
+
+  const handleRandomClick = () => {
+    const randomRoute = postIds.length
+      ? `/posts/${postIds[Math.floor(Math.random() * postIds.length)]}`
+      : "/";
+    router.push(randomRoute);
+  };
+
+  const responsiveLinkClassName = small
+    ? clsx([classes.navLink, classes.navLinkSm])
+    : classes.navLink;
 
   return (
     <div
@@ -81,22 +85,16 @@ export default function NavbarTop({
     >
       <Link
         underline="none"
-        activeClassName={clsx([
-          small ? classes.navLinkSm : classes.navLink,
-          classes.activeLink,
-        ])}
-        className={small ? classes.navLinkSm : classes.navLink}
+        activeClassName={classes.activeLink}
+        className={responsiveLinkClassName}
         href="/capolavori"
       >
         Capolavori
       </Link>
       <Link
         underline="none"
-        activeClassName={clsx([
-          small ? classes.navLinkSm : classes.navLink,
-          classes.activeLink,
-        ])}
-        className={small ? classes.navLinkSm : classes.navLink}
+        activeClassName={classes.activeLink}
+        className={responsiveLinkClassName}
         href="/telefoni"
       >
         Telefoni
@@ -106,7 +104,7 @@ export default function NavbarTop({
         tabIndex={0}
         onClick={() => handleRandomClick()}
       >
-        <Typography className={small ? classes.navLinkSm : classes.navLink}>
+        <Typography className={responsiveLinkClassName}>
           Madonne A Caso
         </Typography>
       </div>

@@ -1,8 +1,9 @@
 import { makeStyles } from "@material-ui/core/styles";
-import Link from "@components/Link";
 import blue from "@material-ui/core/colors/blue";
+import Typography from "@material-ui/core/Typography";
+import Link from "@components/Link";
 import clsx from "clsx";
-import { Typography } from "@material-ui/core";
+
 const useStyles = makeStyles((theme) => ({
   main: {
     display: "flex",

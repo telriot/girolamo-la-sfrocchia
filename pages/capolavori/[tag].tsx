@@ -2,7 +2,6 @@ import Head from "next/head";
 import { GetStaticProps, GetStaticPaths } from "next";
 import { getPostsByTag, getTagsList } from "@lib/capolavori";
 import { getAllPostIds } from "@lib/posts";
-
 import { makeStyles } from "@material-ui/core/styles";
 import Typography from "@material-ui/core/Typography";
 import PostCard from "@components/PostCard";
