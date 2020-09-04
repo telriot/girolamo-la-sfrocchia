@@ -1,5 +1,5 @@
 ---
-title: "Ristoranti di poco pregio #3: Hachimonji"
+title: "Ristoranti di poco pregio #5: Hachimonji"
 date: "2020-09-03"
 tags: ["mangiare", "magia", "furto&rapina"]
 ---

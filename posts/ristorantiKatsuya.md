@@ -1,5 +1,5 @@
 ---
-title: "Ristoranti di poco pregio #3: Katsuya"
+title: "Ristoranti di poco pregio #4: Katsuya"
 date: "2020-09-02"
 tags: ["mangiare", "schiavismo"]
 ---
