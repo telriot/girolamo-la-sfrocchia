@@ -49,25 +49,45 @@ e nei commenti che il Nagano stesso lascia in calce agli articoli in evidenza, s
 A chi mi avesse seguito fino a questo punto e continuasse a pensare _La Sfrocchia lei si sta sbagliando, questo è un uomo noioso, e l'unica cosa brillante qui dentro è l'acqua che lei senza dubbio mette nel gin al mattino appena sveglio_ mi si permetta di rispondere con una lista di nomi di pranzi in scatola offerti dal supermercato e ideati in prima persona da Nagano Yuta, direttore di Naganoya e artista finissimo [^12]
 
 > Bento carino
+
 > Bento dell'eterno studente
+
 > Bento settebellezze
+
 > Homerun Bento
+
 > Bento dello schiaffone a mano aperta
+
 > Bento del _bunt di sacrificio_ infinito
+
 > Moonwalk Bento
+
 > Viva viva Bento (alè alè)
+
 > Pranzo del Behemoth del Fulmine
+
 > BAAAAAAAMM SCHIAFFO NEL VISO Bento
+
 > Billy Banban [^13] Chicken Nanban [^14] Bento
+
 > Lalalanguilla bento (a base di anguilla cinese)
+
 > Bento a base di anguilla nostrana è caro scusatemi (a base di anguilla giapponese)
+
 > Sono ostriche di Hiroshima per davvero! Bento
+
 > Bento al doppio click
+
 > Bento al doppio click ritardato
+
 > ⬆⬆⬇⬇⬅➡⬅➡ [^15] bento
+
 > Bento SU SU GIÙ GIÙ SINISTRA DESTRA SINISTRA DESTRA QUALCUNO NON AVEVA CAPITO
+
 > Pommarola di nascosto Bento
+
 > Bento di nascosto senza riuscire a smettere
+
 > Bento del ballo cosacco ad alta velocità
 
 e con questi di salutarvi con _la cinquantamila lire_ [^16] della vittoria al sicuro e in tasca.
