@@ -17,6 +17,7 @@ In Giappone la malattia non è proprio vista di buon occhio, e tutti si immagina
 #### L'importanza di Football Manager
 
 Da malati pensare lucidamente è ancora più difficile del solito, e per questo motivo è di vitale importanza trovare una attività alla quale dedicarsi che ci aiuti a dimenticare il trascorrere di questo tempo inutile fatto di mal di testa e brividi in maniera efficace e, almeno in parte, godibile [^3].
+
 Io credo di aver trovato una soluzione definitiva a questo problema in Football Manager 2008 e nelle sue infinite tabelle di punteggi e stipendi, capaci di sedare anche lo spirito più inquieto e utilissime per imparare a memoria in brevissimo tempo la statura, la media gol e la data di nascita della rosa della Fiorentina del 2007 [^4]. Questo toccasana per lo spirito, che raccomando a tutti, indipendentemente dalla loro passione per il gioco del calcio, mi è oggi reso inaccessibile da quel senso di colpa endemico negli abitanti del Giappone, tanto indigeni che di importazione, che al contrario mi spinge a utilizzare quel poco di energie che mi rimangono mentre la malattia mi scombussola e mi istupidisce in compiti privi di senso come ad esempio il _respirare più a garbo_ e il _sudare meglio_.
 
 #### Cose che dicono i fascisti
@@ -30,7 +31,9 @@ solitamente seguita da cose che chiunque non fosse mosso unicamente dal dispetto
 > Ah si, e perché invece loro...
 
 come a insistere sulla propria incapacità di ammettere le proprie colpe e i propri difetti, giustificandola peraltro solitamente con l'imperdonabile esistenza dei negri o, in assenza di negri [^5], dei poveri e dei rotti nel culo.
+
 Questa cosa del pensare ai fascisti credo che venga da certi pranzi lunghissimi passati da bambino circondato, appunto, da uno stuolo di fascisti, i miei numerosissimi parenti _fascisti_, e dalle loro chiacchiere fasciste, che perlopiù vertevano sul terrore della _minaccia comunista_, sul desiderio di lanciare dei missili _Scud_ contro i cantieri della COOP Reno, e soprattuto sui _soldi_, su come spenderli, come accumularli e soprattutto su come salvarli dal rosso maelstrom delle tasse.
+
 Io sono sicuro, in tutti questi pranzi, di non aver mai sentito una sola cosa che non fosse bastante, in sé e per sé, a far cagliare il sangue nelle vene anche al più sordido degli Alvaro Vitali, e credo che i lati migliori della mia persona [^6] trovino appunto la propria origine in queste serene occasioni di chiacchiera e di convivio. Il ricordo del caro zio germofobo che mangiava schiacciata e caffellatte prima di coricarsi accompagnato dai discorsi del duce, fedelmente riprodotti nel massimo rispetto della privacy ideologica dal suo _Walkman_ di primissima generazione; quello del cugino omosessuale [^7] che appena uscito dalla terza elementare mi introduceva al problema del _regime della sinistra e di Baffino_ mentre andavamo a nascondere un papero appena nato e trovato nei campi da qualche parte in casa dei nonni [^8], mossi esclusivamente da intenti umanitari [^9] e dall'amore per la natura; le giornate d'inverno passate a costruire trenini sulle scale per poi riposarsi leggendo le ultime copie del Borghese o quell'edizione nascosta del _Delta di Venere_ tenuta proprio di fianco ai _pornazzi_; e così avanti, _AVANTI!_, fino al biglietto d'auguri per la prima comunione con scritto _Ad Maiora!_ e avvolto nel porpora della cinquantamilalire, e l'arrivo della Lega, le partite a briscola con i quiz di Umberto Smaila in sottofondo, e eccetera, eccetera.
 
 #### Rifarsi la bocca
