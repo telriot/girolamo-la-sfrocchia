@@ -9,7 +9,7 @@ const styles = ({ spacing }: Theme) =>
   createStyles({
     body1: {
       fontWeight: 300,
-      lineHeight:"1.75rem"
+      lineHeight:"1.8125rem"
       //textAlign: "justify",
       //textJustify: "inter-word",
     },
