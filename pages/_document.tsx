@@ -40,7 +40,7 @@ export default class MyDocument extends Document<MyDocumentProps> {
           {/* PWA primary color */}
 
           <meta name="theme-color" content={theme.palette.primary.main} />
-          <link href="/fonts/styles.css" rel="stylesheet" />
+          <link    rel="preload" href="/fonts/styles.css" rel="stylesheet" />
 
         </Head>
         <body>
