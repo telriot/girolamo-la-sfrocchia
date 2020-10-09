@@ -23,7 +23,7 @@ Dal momento che in questi tempi di pandemia mangiare in loco non è proprio cosa
 
 C'è sempre un profumo incredibile in mezzo a questi alberi che coprono la vista del cielo, al manto rossastro dal quale si levano infiniti, e la bici scorre quasi da sé, senza nessuno intorno e col rumore soltanto del mare a un tiro di fionda. Ogni tanto la sagoma di qualche resort ormai in disuso sbuca sgarrupata nel verde delle frasche, e poi nulla, fino ai campi da golf ed ai colpi di mazza dei forzati locali, impiegati in veste temporanea e fuori dal regolare orario di lavoro nei loro ruoli di _sbagliabuche_ e _guardapalline_, mentre il capufficio li consiglia e li guida nel loro percorso di crescita sportiva.
 
-Superata la pineta vera e propria, se abbiamo voglia ci spingiamo un po' più avanti, fino a una spiaggia lunga e abbandonata, dove la forza del mare è arrestata da certe strutture in cemento che mi fanno sentire ammarato sul pianeta delle scimmie. A quel punto lasciamo lì le bici e andiamo a mettere i piedi un po' a guazzo nell'acqua.
+Superata la pineta vera e propria, se abbiamo voglia ci spingiamo un po' più avanti, fino a una spiaggia lunga e abbandonata, dove la forza del mare è arrestata da certe strutture in cemento che mi fanno sentire perduto sul pianeta delle scimmie. A quel punto lasciamo lì le bici e andiamo a mettere i piedi un po' a guazzo nell'acqua.
 
 Le cialde nel frattempo si sono raffreddate, e forse sono un po' _gunyo gunyo_ [^12], come dice Juri, per cui le rimettiamo nello zaino e ci rimettiamo in sella verso casa. Lì le mangeremo rigenerate dall'effetto _pari pari_ [^13] garantito loro da un paio di minuti passati nello _sfornatutto_.
 
