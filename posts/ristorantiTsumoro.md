@@ -256,6 +256,9 @@ e certi di un risveglio intorno alle tre e quaranta del
 mattino alla ricerca di un bicchiere d'acqua e della
 confezione del bicarbonato di sodio.
 
+___
+
+
 [^1]: Sarà il caso di mangiare fuori? Senti Juri, ci arriviamo a fine mese? Non sarà meglio tirare un po' la corda e dare il buon esempio?
 [^2]: Perché se vi trovate a leggere queste porcherie potete solo essere dei drogati e degli omosessuali.
 [^3]: Scriverei **_stereo_** in grassetto e in corsivo, ma ho paura che il curatore mi sgridi.

@@ -92,6 +92,9 @@ aspettavo.
 Quando sono tornato a casa ho detto a Juri che volendo si possono prendere anche i ramen classici
 con gli spaghi grossi, e lei mi è parsa contenta: poi ci siamo messi a fare le nostre cose aspettando il tifone di questa notte, che probabilmente spazzerà via un paio di quartieri della nostra città.
 
+___
+
+
 [^1]: Chi la avesse.
 [^2]: Degli spaghettoni in un brodo piccante, che come ogni cosa buona del Giappone sono stati rubati alla Cina.
 [^3]: Se c'è una cosa che mi dà sui nervi sono proprio le famiglie, con questi bambini sempre rumorosi e le mamme puntualmente bruttissime. Io credo che la famiglia sia un modello evolutivo fallato alla radice, e che sarebbe senz'altro preferibile una soluzione di stampo platonico: siccome però ho come l'impressione che a questo mondo nessuno capisca un cazzo, sono certo del fatto che continueremo a rovinarci l'esistenza fino alla fine dei tempi con questo teatrino ormai economicamente superato nel quale tutti puntualmente si odiano e si rompono i coglioni a vicenda. Ai tutti i democristiani che volessero farmi presente che la loro famiglia eccetera eccetera consiglio senza neppure aprire discussioni la corda o il gas: e di corsa.

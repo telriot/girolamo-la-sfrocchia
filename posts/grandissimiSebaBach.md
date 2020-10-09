@@ -33,4 +33,7 @@ Certo dell'ignoranza dei molti, mi prenderó oggi la briga di mostrarvi come il 
 - **1751**: Il mondo inizia a percorrere una spirale discendente di degrado e ignoranza.
 - **2019**: _Carote_, brano d'esordio di un inconsapevole cantante neomelodico italiano fa segnare più di quattro milioni di visualizzazioni su Youtube.
 
+___
+
+
 [^1]: In una mossa simile per arguzia all'acquisto di Zdravko Kuzmanovic nell'agosto 2007 da parte di Pantaleo Corvino.

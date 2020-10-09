@@ -27,6 +27,9 @@ Superata la pineta vera e propria, se abbiamo voglia ci spingiamo un po' più av
 
 Le cialde nel frattempo si sono raffreddate, e forse sono un po' _gunyo gunyo_ [^12], come dice Juri, per cui le rimettiamo nello zaino e ci rimettiamo in sella verso casa. Lì le mangeremo rigenerate dall'effetto _pari pari_ [^13] garantito loro da un paio di minuti passati nello _sfornatutto_.
 
+___
+
+
 [^1]: Ho imparato a sopravvivere senza Ciccio Mannori che di prima mattina mi faceva vedere i _meme_ con gli omini di Star Trek che scivolano e bestemmiano la madonna e all'imbrunire mi passava una canna _già girata_: la perdita di tre gonzi americani e qualche giapponese con la smania dell'europeismo sicuramente non mi vedrà provato.
 [^2]: Specialmente agli uomini, che spesso citano tra i loro cibi preferiti certe verdure amarissime e/o viscidissime, oppure certi preparati commestibili unicamente se accompagnati da fiumi di birra, come le uova di _tara_ in salamoia piccante e certi pesci muffiti che non vado nemmeno a spiegare. Ma va detto che agli uomini giapponesi, come a tanta altra gente che non capisce un cazzo, non garba nemmeno la _figa_.
 [^3]: Se avesse potuto esprimersi in maniera chiara e distinta, utilizzando un lessico regolato sulle cose e non sulle circostanze, avrebbe detto _sono dolci del cazzo fatti alla cazzo_.

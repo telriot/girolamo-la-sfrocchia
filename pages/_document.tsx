@@ -40,14 +40,8 @@ export default class MyDocument extends Document<MyDocumentProps> {
           {/* PWA primary color */}
 
           <meta name="theme-color" content={theme.palette.primary.main} />
-          <link
-            rel="stylesheet"
-            href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700&display=swap"
-          />
-          <link
-            href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap"
-            rel="stylesheet"
-          />
+          <link href="/fonts/styles.css" rel="stylesheet" />
+
         </Head>
         <body>
           <Main />

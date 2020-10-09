@@ -29,8 +29,15 @@ const useStyles = makeStyles((theme) => ({
   subHeader: {
     padding: theme.spacing(0, 4, 6),
     fontWeight: 300,
+    fontStyle:"italic",
     [theme.breakpoints.down("xs")]: {
-      padding: theme.spacing(0, 4, 3),
+      padding: theme.spacing(0, 4, 4),
+    },
+    [theme.breakpoints.down(420)]: {
+      padding: theme.spacing(0, 8, 4),
+    },
+        [theme.breakpoints.down(340)]: {
+      padding: theme.spacing(0, 6, 4),
     },
   },
   main: {
@@ -78,12 +85,12 @@ export default function Layout({
               </Link>
 
               <Typography
-                variant="h6"
+                variant="subtitle1"
                 component="h2"
                 align="center"
                 className={classes.subHeader}
               >
-                <em>Autore grandissimo e migliore di tutti</em>
+                Autore grandissimo e migliore di tutti
               </Typography>
               <NavbarTop postIds={postIds} />
             </header>

@@ -1,7 +1,6 @@
 import Head from "next/head";
 import { getAllPostIds, getPostData } from "@lib/posts";
 import { GetStaticPaths, GetStaticProps } from "next";
-
 import Layout from "@components/layout";
 import MuiMarkdown from "@components/MuiToMarkdown";
 

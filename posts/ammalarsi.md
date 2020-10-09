@@ -40,6 +40,9 @@ Io sono sicuro, in tutti questi pranzi, di non aver mai sentito una sola cosa ch
 
 Rifarsi la bocca è importante, e l'altro giorno ho fatto tre chili buoni di marmellata di _nashi_ [^10]. Ora che mi sento un po' meglio vado di là, faccio vedere a mia moglie _il pupparolo_, molle e grinzoso per la malattia, e una volta schivata la _ciabatta-shuriken_ che mi merito di dover schivare, mi dedico a esplorare i mondi proibiti del pane [^11], delle pere giapponesi e del burro d'arachidi.
 
+___
+
+
 [^1]: Perché qui non siamo mica nel paese della cuccagna come a casa vostra, dove si comprano le arachidi, i ritz e i pistacchi insieme a cinque grammi di marocchino per poi tornare a casa in diagonale e con le gengive infiammate.
 [^2]: Lo stesso sgabello che _Junya-san_ utilizza per levare comodamente le erbacce, attività popolarissima in Giappone e che va sotto il nome di _kusa-tori_ o _kusa-nuki_, e che con quel cigolio che fa proprio _gnii gnii gnii_ mi ricorda come le mie fatiche telematiche di _web developer_ non siano nulla e poi nulla, anche soltanto rispetto ai _passatempi_ degli anziani giapponesi, abituati a festeggiare le grandi occasioni guardando il pane o leggendo i manuali delle lavatrici.
 [^3]: Prima che mi dimentichi: a tutti quelli che _ma il Nietsche della genealogia della morale dice che la malattia_ eccetera il solito invito alla canna del gas.

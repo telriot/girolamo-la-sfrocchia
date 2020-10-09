@@ -34,6 +34,9 @@ Ne approfitto allora per dedicare questo tardo pomeriggio di settembre, nel qual
 
 - **1970**: Mifune, probabilmente in difficoltà tanto economiche quanto psicologiche dopo la separazione con Kurosawa, gira una pubblicità di grandissimo successo per la birra Sapporo: in questa appare in silenzio su una nave gigantesca e senza una parola beve la sua birra, con lo slogan che recita _gli uomini stanno zitti e bevono_. Proprio durante le riprese, sotto il vento sferzante dell'oceano e accompagnato da una colonna sonora di stampo nazional-socialista, il Mifune muore della stessa morte di cui muore di fronte a Cristo chiunque lavori nella pubblicità, nel marketing e in queste missioni criptofasciste che altro non sono se non la rovina di tutto cio' che è creato. E noi con questo anche oggi abbiamo finito di lavorare.
 
+___
+
+
 [^1]: Siccome ne avevo due, uno fascista e uno carabiniere, è facile tenere il conto.
 [^2]: Non a me precisamente: lui parlava sempre a tutti da capotavola, io credo per via di questa tendenza naturale al discorso dei fascisti, che amano l'alternarsi della parlata e dell'applauso.
 [^3]: Per chi come me avesse qualche problema di memoria a breve, lungo e medio termine e ne percepisse l'esacerbarsi in presenza di nomi stranieri, stiamo parlando del regista di cui sopra.

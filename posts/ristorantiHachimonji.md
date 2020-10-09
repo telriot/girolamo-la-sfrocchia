@@ -124,6 +124,9 @@ in un *Ouroboros* di appena un metro e mezzo. In qualche modo però l'incantesim
 deve avere avuto la meglio anche su di lei, tanto che l'altra notte la sentivo farfugliare in sogno:
 *fukutomato*... *hyakumanen* [^11] ...
 
+___
+
+
 [^1]: E grassi.
 [^2]: Circa settanta copeche.
 [^3]: In valigia: comodissimo e acquistato in *konbi* insieme a una mini asse da stiro ideata per gli uomini in viaggio.

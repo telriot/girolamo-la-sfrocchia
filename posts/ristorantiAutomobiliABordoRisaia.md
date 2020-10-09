@@ -113,6 +113,9 @@ ogni risentimento e ritrattare tutte le maledizioni lanciate al mastro di prezzi
 avidità, rimuovendolo così dalla lista delle persone che devono morire in un incendio al quale lo
 avevo iscritto nemmeno ventiquattr'ore prima.
 
+___
+
+
 [^1]: Al lettore basti pensare che questa gente paga soldi veri per mettere me, l'autore di paragrafi come “Dove finalmente si parla della sborra”, dietro una cattedra e di fronte a dei bambini.
 [^2]: Tutta roba di alto livello e modernissima, selezionata tra le primissime edizioni del Reader's Digest.
 [^3]: Che vi posso riportare qui per intero: _in America una volta i negri non si potevano sedere sull'autobus, ma grazie a Martin Luther King oggi ci si possono sedere, e possono fare anche altre cose che però in questo momento non andiamo a menzionare_.

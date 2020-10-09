@@ -29,7 +29,7 @@ const useStyles = makeStyles((theme) => ({
   },
   navLink: {
     fontFamily: "Bebas Neue",
-    fontSize: theme.typography.h4.fontSize,
+    fontSize: theme.typography.h3.fontSize,
     color: theme.palette.text.primary,
     padding: theme.spacing(0.5, 0),
     "&:hover": {
@@ -40,7 +40,7 @@ const useStyles = makeStyles((theme) => ({
       color: blue[700],
     },
     [theme.breakpoints.down("xs")]: {
-      fontSize: theme.typography.h5.fontSize,
+      fontSize: theme.typography.h4.fontSize,
     },
   },
   navLinkSm: {

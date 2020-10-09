@@ -136,6 +136,9 @@ ingeriti e assimilati da quella parte sostanziale del genere umano che al contra
 unicamente nel ribaltamento gerarchico della piramide alimentare, in chiave missilistica insomma,
 nella loro forma genuinamente esplosiva, devastante e radioattiva[^7].
 
+___
+
+
 [^1]: Shinney.
 [^2]: _Ad maiora! Boia chi molla!_.
 [^3]: O anche nella fregna rotta di tu madre.

@@ -141,6 +141,9 @@ peregrinazioni senza fine, portandomi da ultimo, dopo avermi a modo proprio anni
 ristoro in questo arcipelago, così diverso dal mondo lontano – con le sue leggi, le sue regole, la sua
 gente – eppure in ogni cosa così piano, così normale.
 
+___
+
+
 [^1]: I genitori, i negri, la povera gente.
 [^2]: Lo dice anche la canzone: *la disoccupazione ti ha dato un bel mestiere, mestiere di merda*, carameriere.
 [^3]: È importante sapere che in Giappone non si butta via nulla, anche si cambia macchina ogni due anni e il mercato dell'usato è solo un segno del degrado dei costumi.

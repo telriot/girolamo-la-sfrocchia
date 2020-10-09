@@ -38,6 +38,9 @@ In ogni caso, dal fratello di Aki ricordo di aver bevuto almeno tre o quattro _m
 
 Ci ho lavorato di nuovo, da Shuu-san, appena tornato a Miyazaki, ma per oggi basta così.
 
+___
+
+
 [^1]: Posti per bere, perlopiù con le zoccole a pago.
 [^2]: Posti per bere, perlopiù di proprietà di vecchie zoccole a pago che ora fanno le intrattenitrici di vecchi e probabilmente spingono delle zoccole a pago, ma sottobanco.
 [^3]: Un po' come i posti con le zoccole a pago, ma sono tutti uomini e hanno i capelli in un certo modo che sicuramente ha un nome ma che per brevità diremo alla cazzo di cane.

@@ -9,8 +9,16 @@ const styles = ({ spacing }: Theme) =>
   createStyles({
     body1: {
       fontWeight: 300,
-      textAlign: "justify",
-      textJustify: "inter-word",
+      lineHeight:"1.75rem"
+      //textAlign: "justify",
+      //textJustify: "inter-word",
+    },
+    caption:{
+      fontWeight:300,
+      fontSize: ".75rem"
+    },
+    footnote:{
+      
     },
     listItem: {
       marginTop: spacing(1),
@@ -18,6 +26,11 @@ const styles = ({ spacing }: Theme) =>
     header1: {
       fontFamily: "Bebas Neue",
     },
+    hr:{
+      border:"none",
+      borderTop:"1px solid rgb(200,200,200)",
+      marginBottom:".5rem",
+    }
   });
 
 const options = {
@@ -27,6 +40,7 @@ const options = {
         styles
       )(({ classes, ...props }: { classes: any }) => (
         <Typography
+        classes={{ root: classes.footnote }}
           variant="caption"
           component="div"
           gutterBottom={true}
@@ -83,6 +97,25 @@ const options = {
         )
       ),
     },
+    sup:{
+      component: withStyles(
+        styles
+      )(({ classes, ...props }: { classes: any }) => (
+        <Typography
+          classes={{ root: classes.caption }}
+          variant="caption"
+          component="sup"
+          {...props}
+        />
+      )),
+    },
+    hr:{
+      component: withStyles(
+        styles
+      )(({ classes, ...props }: { classes: any }) => (
+<hr className={classes.hr}/>
+      )),
+    }
   },
 };
 
