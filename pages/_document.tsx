@@ -40,7 +40,48 @@ export default class MyDocument extends Document<MyDocumentProps> {
           {/* PWA primary color */}
 
           <meta name="theme-color" content={theme.palette.primary.main} />
-          <link    rel="preload" href="/fonts/styles.css" as="font" />
+          <link
+    rel="preload"
+    href="/fonts/BebasNeue-Regular.ttf"
+    as="font"
+    type="font/ttf"
+    crossOrigin="anonymous"
+
+/>
+<link
+    rel="preload"
+    href="/fonts/Montserrat-Light.ttf"
+    as="font"
+    type="font/ttf"
+    crossOrigin="anonymous"
+
+/>
+<link
+    rel="preload"
+    href="/fonts/Montserrat-LightItalic.ttf"
+    as="font"
+    type="font/ttf"
+    crossOrigin="anonymous"
+
+/>
+<link
+    rel="preload"
+    href="/fonts/Montserrat-Regular.ttf"
+    as="font"
+    type="font/ttf"
+    crossOrigin="anonymous"
+
+/>
+<link
+    rel="preload"
+    href="/fonts/Montserrat-Medium.ttf"
+    as="font"
+    type="font/ttf"
+    crossOrigin="anonymous"
+
+    
+/>
+<link href="/fonts/styles.css" rel="stylesheet" /> 
 
         </Head>
         <body>
