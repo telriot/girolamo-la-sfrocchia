@@ -34,7 +34,7 @@ Le cialde nel frattempo si sono raffreddate, e forse sono un po' _gunyo gunyo_ [
 [^5]: O bianchi, che a dire il vero _sono anche meglio_.
 [^6]: Il _lato B_.
 [^7]: Ahia.
-[^8]: Non proprio: vendono anche delle granite al tè verde, anche queste ripiene di crema di fagioli rossi e dolci da segare il fiato, che sì, raccomando, ma che insomma non contano ai fini dell'esposizione.
+[^8]: Non proprio: vendono pure delle granite al tè verde, anche queste ripiene di crema di fagioli rossi e dolci da segare il fiato, che sì, raccomando, ma che insomma non contano ai fini dell'esposizione.
 [^9]: Dopo quaranta scatta la telefonata al Ministero per la Salute.
 [^10]: I centri cittadini giapponesi, sempre stipatissimi, hanno di regola almeno un parcheggio privato ogni sette negozi di zoccole da bere, quindi un'infinità, e ciascuno di questi parcheggi reclamizza i propri prezzi su dei tabelloni nascostissimi e con delle modalità espositive che al confronto le condizioni di utilizzo di certi prestatori di servizi telefonici italiani sono un inno alla sincerità e alla chiarezza del discorso.
 [^11]: Uno per colore, a testa.
