@@ -1,6 +1,6 @@
 ---
 title: "I più grandissimi di sempre #3: Antonio Gramsci"
-date: "2020-24-11"
+date: "2020-10-25"
 tags: ["grandissimi", "antifascismo", "prigione", "cazzoduro"]
 ---
 
