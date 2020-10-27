@@ -75,7 +75,7 @@ export default class MyDocument extends Document<MyDocumentProps> {
 						type="font/ttf"
 						crossOrigin="anonymous"
 					/>
-					<link href="/fonts/styles.css" rel="stylesheet" />
+					{/* <link href="/fonts/styles.css" rel="stylesheet" /> */}
 				</Head>
 				<body>
 					<Main />

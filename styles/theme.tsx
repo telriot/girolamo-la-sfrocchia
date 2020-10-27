@@ -3,23 +3,23 @@ import { red } from "@material-ui/core/colors";
 
 // Create a theme instance.
 let theme = createMuiTheme({
-  typography: {
-    fontFamily: "Montserrat, Arial",
-  },
-  palette: {
-    primary: {
-      main: "#556cd6",
-    },
-    secondary: {
-      main: "#19857b",
-    },
-    error: {
-      main: red.A400,
-    },
-    background: {
-      default: "#fff",
-    },
-  },
+	typography: {
+		fontFamily: "Montserrat, Helvetica, Arial, sans-serif",
+	},
+	palette: {
+		primary: {
+			main: "#556cd6",
+		},
+		secondary: {
+			main: "#19857b",
+		},
+		error: {
+			main: red.A400,
+		},
+		background: {
+			default: "#fff",
+		},
+	},
 });
 theme = responsiveFontSizes(theme);
 
