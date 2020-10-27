@@ -6,6 +6,8 @@ export default css.global`
 		font-family: "Bebas Neue";
 		font-style: normal;
 		font-weight: 400;
+		font-display: block;
+
 		src: url("/fonts/bebas-neue-v2-latin-regular.eot"); /* IE9 Compat Modes */
 		src: local("Bebas Neue Regular"), local("BebasNeue-Regular"),
 			url("/fonts/bebas-neue-v2-latin-regular.eot?#iefix")
@@ -24,6 +26,8 @@ export default css.global`
 		font-family: "Montserrat";
 		font-style: normal;
 		font-weight: 300;
+		font-display: block;
+
 		src: url("/fonts/montserrat-v15-latin-300.eot"); /* IE9 Compat Modes */
 		src: local("Montserrat Light"), local("Montserrat-Light"),
 			url("/fonts/montserrat-v15-latin-300.eot?#iefix")
@@ -41,6 +45,8 @@ export default css.global`
 		font-family: "Montserrat";
 		font-style: italic;
 		font-weight: 300;
+		font-display: block;
+
 		src: url("/fonts/montserrat-v15-latin-300italic.eot"); /* IE9 Compat Modes */
 		src: local("Montserrat Light Italic"), local("Montserrat-LightItalic"),
 			url("/fonts/montserrat-v15-latin-300italic.eot?#iefix")
@@ -60,6 +66,8 @@ export default css.global`
 		font-family: "Montserrat";
 		font-style: normal;
 		font-weight: 400;
+		font-display: block;
+
 		src: url("/fonts/montserrat-v15-latin-regular.eot"); /* IE9 Compat Modes */
 		src: local("Montserrat Regular"), local("Montserrat-Regular"),
 			url("/fonts/montserrat-v15-latin-regular.eot?#iefix")
@@ -78,6 +86,8 @@ export default css.global`
 		font-family: "Montserrat";
 		font-style: italic;
 		font-weight: 400;
+		font-display: block;
+
 		src: url("/fonts/montserrat-v15-latin-italic.eot"); /* IE9 Compat Modes */
 		src: local("Montserrat Italic"), local("Montserrat-Italic"),
 			url("/fonts/montserrat-v15-latin-italic.eot?#iefix")
@@ -96,6 +106,8 @@ export default css.global`
 		font-family: "Montserrat";
 		font-style: normal;
 		font-weight: 500;
+		font-display: block;
+
 		src: url("/fonts/montserrat-v15-latin-500.eot"); /* IE9 Compat Modes */
 		src: local("Montserrat Medium"), local("Montserrat-Medium"),
 			url("/fonts/montserrat-v15-latin-500.eot?#iefix")
