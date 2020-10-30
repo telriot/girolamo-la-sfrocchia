@@ -9,15 +9,15 @@ const styles = ({ breakpoints, spacing }: Theme) =>
 	createStyles({
 		body1: {
 			fontWeight: 300,
-			lineHeight: "1.8125rem",
+			lineHeight: "1.875rem",
 			fontSize: "1.25rem",
 			[breakpoints.down("md")]: {
 				fontSize: "1.125rem",
-				lineHeight: "1.625rem",
+				lineHeight: "1.6875rem",
 			},
 			[breakpoints.down("sm")]: {
 				fontSize: "1rem",
-				lineHeight: "1.5625rem",
+				lineHeight: "1.625rem",
 			},
 			[breakpoints.down("xs")]: {
 				fontSize: ".9375rem",
