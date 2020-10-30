@@ -13,11 +13,11 @@ const styles = ({ breakpoints, spacing }: Theme) =>
 			fontSize: "1.25rem",
 			[breakpoints.down("md")]: {
 				fontSize: "1.125rem",
-				lineHeight: "1.5625rem",
+				lineHeight: "1.625rem",
 			},
 			[breakpoints.down("sm")]: {
 				fontSize: "1rem",
-				lineHeight: "1.625rem",
+				lineHeight: "1.5625rem",
 			},
 			[breakpoints.down("xs")]: {
 				fontSize: ".9375rem",
