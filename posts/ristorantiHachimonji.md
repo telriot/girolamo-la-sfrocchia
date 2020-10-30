@@ -87,7 +87,7 @@ gioiello, di un pomodoro magnifico, statuario nella sua dignità e fermato al ce
 ornato di verdure stagionali scottate nel *dashi*: il mitologico *fukutomato*, grande protagonista
 dell'*entree* del giorno. A seguire, una selezione finissima di *sashimi*, servita in una foresta di alghe,
 condimenti e cubetti di ghiaccio; un umilissimo *agedashi tofu*, fritto e affogato nel più semplice dei
-brodi; poi ostriche di Tottori, *karaage* di *okoze* [^9] e un assaggio di quello che senz'altro è il miglior
+brodi; poi ostriche di Tottori, *karaage* di *okoze*[^9] e un assaggio di quello che senz'altro è il miglior
 *sushi* del Chuugoku. A chiudere il servizio un *omisoshiru* insuperabile per delicatezza e – al fine di
 soddisfare i miei bisogni più infantili – un boccone dolce da intenditori: due chicchi contati di una
 trasgressiva *tenpura* della pregiatissima uva moscato di Okayama.
@@ -117,12 +117,12 @@ con grande naturalezza la discussione torna sui temi di sempre: lavoro, società
 – ma soprattutto *sake*, perché l'acqua di Niigata è proprio tutta un'altra cosa.
 
 Hachimonji è l'unico ristorante vero e proprio dove Juri ha accettato di venire con me per una
-seconda uscita [^10] . Il suo modo di pensare è molto semplice: viviamo una volta soltanto, e non ha
+seconda uscita[^10] . Il suo modo di pensare è molto semplice: viviamo una volta soltanto, e non ha
 senso ripetere come in un circolo vizioso le medesime esperienze conosciute nel passato. Juri è
 senza dubbio il mio antidoto contro la quiete e la stagnazione, lo spirito della curiosità reincarnato
 in un *Ouroboros* di appena un metro e mezzo. In qualche modo però l'incantesimo di Hachimonji
 deve avere avuto la meglio anche su di lei, tanto che l'altra notte la sentivo farfugliare in sogno:
-*fukutomato*... *hyakumanen* [^11] ...
+*fukutomato*... *hyakumanen*[^11] ...
 
 ___
 

@@ -47,10 +47,10 @@ quasi davvero non ci fosse un domani: è molto semplice, hanno fame.
 Per chi ancora insistesse nell'abbandonarsi alle fantasie di un Giappone benestante e iper-
 tecnologico, basti sapere che qui, nel sogno bagnato di Andrea Mengacci, il rapporto tra salari e
 costo della vita è tutto a favore del ceto medio abbiente, con i morti di fame che lavorano turni
-massacranti per l'equivalente di due croste di formaggio e tre sputi in bocca [^5] . Per chi non ci
+massacranti per l'equivalente di due croste di formaggio e tre sputi in bocca[^5] . Per chi non ci
 credesse, cito *testualmente* gli ultimi report del ministero dell'economia, secondo i quali questi
-disgraziati dei lavori *part time* [^6] portano a casa in una giornata di lavoro l'equivalente di una
-zangola di tofu e una borraccia di tè freddo [^7] e senza fiatare se li fanno bastare, contribuendo così allo stato generale della salute nazionale e tenendo stabile ai minimi assoluti l'indice
+disgraziati dei lavori *part time*[^6] portano a casa in una giornata di lavoro l'equivalente di una
+zangola di tofu e una borraccia di tè freddo[^7] e senza fiatare se li fanno bastare, contribuendo così allo stato generale della salute nazionale e tenendo stabile ai minimi assoluti l'indice
 morchiametrico di obesità nazionale. Io però – evidentemente – non sono giapponese, e nonosante
 tutti gli sforzi del mondo il mio fabbisogno calorico non vuole saperne di scendere sotto un certo
 ammontare dettato inequivocabilmente a) dalla mia mole corporea b) dallo stato di costante frenesia

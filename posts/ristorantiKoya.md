@@ -17,7 +17,7 @@ sono andato a nuotare.
 
 Nuotare, per chi ancora non lo sapesse, è un'attività molto ripetitiva: si va avanti e indietro una
 cinquantina di volte per una piscina, proprio come degli imbecilli persi in un bicchier d'acqua, e
-quando si esce dalla vasca si ha come l'impressione di essere stati rapinati delle proprie forze e della voglia di vivere [^1] . Chiunque abbia avuto la pessima idea di dedicarsi a uno sport del genere, anche
+quando si esce dalla vasca si ha come l'impressione di essere stati rapinati delle proprie forze e della voglia di vivere[^1] . Chiunque abbia avuto la pessima idea di dedicarsi a uno sport del genere, anche
 solo occasionalmente, saprà benissimo che appena asciugati, fonati e rivestiti, l'unica cosa da fare è
 cercare un chiosco o un capannello dove in qualche modo rifocillarsi e maledire ciascuno dei minuti
 precedenti passati a mollo. Voglioso di ramen, ho quindi deciso di fermarmi da Koya.

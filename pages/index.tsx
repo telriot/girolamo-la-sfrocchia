@@ -7,45 +7,45 @@ import MuiMarkdown from "@components/MuiToMarkdown";
 import Layout, { siteTitle } from "@components/layout";
 
 export const getStaticProps: GetStaticProps = async () => {
-  const allPostsData = getSortedPostsData();
-  const ids = getAllPostIds();
-  const idsArr = ids.map((id) => id.params.id);
-  const lastPost =
-    allPostsData.length && (await getPostData(allPostsData[0].id));
-  return {
-    props: {
-      lastPost,
-      idsArr,
-    },
-  };
+	const allPostsData = getSortedPostsData();
+	const ids = getAllPostIds();
+	const idsArr = ids.map((id) => id.params.id);
+	const lastPost =
+		allPostsData.length && (await getPostData(allPostsData[0].id));
+	return {
+		props: {
+			lastPost,
+			idsArr,
+		},
+	};
 };
 
 const useStyles = makeStyles((theme) => ({
-  container: {},
+	container: { padding: 0 },
 }));
 
 export default function Home({
-  lastPost,
-  idsArr,
+	lastPost,
+	idsArr,
 }: {
-  lastPost: {
-    date: string;
-    title: string;
-    id: string;
-    unprocessedContent: string;
-  };
-  idsArr: string[];
+	lastPost: {
+		date: string;
+		title: string;
+		id: string;
+		unprocessedContent: string;
+	};
+	idsArr: string[];
 }) {
-  const classes = useStyles();
+	const classes = useStyles();
 
-  return (
-    <Layout postIds={idsArr} home={true}>
-      <Head>
-        <title>{siteTitle}</title>
-      </Head>
-      <Container className={classes.container}>
-        <MuiMarkdown>{lastPost.unprocessedContent}</MuiMarkdown>
-      </Container>
-    </Layout>
-  );
+	return (
+		<Layout postIds={idsArr} home={true}>
+			<Head>
+				<title>{siteTitle}</title>
+			</Head>
+			<Container className={classes.container}>
+				<MuiMarkdown>{lastPost.unprocessedContent}</MuiMarkdown>
+			</Container>
+		</Layout>
+	);
 }

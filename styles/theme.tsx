@@ -5,6 +5,9 @@ import { red } from "@material-ui/core/colors";
 let theme = createMuiTheme({
 	typography: {
 		fontFamily: "Montserrat, Helvetica, Arial, sans-serif",
+		h5: {
+			fontWeight: 500,
+		},
 	},
 	palette: {
 		primary: {
@@ -18,6 +21,15 @@ let theme = createMuiTheme({
 		},
 		background: {
 			default: "#fff",
+		},
+	},
+	breakpoints: {
+		values: {
+			xs: 0,
+			sm: 600,
+			md: 840,
+			lg: 1280,
+			xl: 1920,
 		},
 	},
 });

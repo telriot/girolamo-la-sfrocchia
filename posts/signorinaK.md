@@ -46,7 +46,7 @@ cercando con lo sguardo il punto preciso nel cielo dal quale mi auguro un giorno
 bocca degli inferi risucchiando questo paese nelle proprie viscere riformatrici.
 
 La signorina K ha ventott'anni e quando si presenta agli studenti dice che avendo vissuto a Sidney[^5] è
-una fan degli AC/DC, dei koala e del sushi australiano [^6] . Dal momento che gli studenti giapponesi –
+una fan degli AC/DC, dei koala e del sushi australiano[^6] . Dal momento che gli studenti giapponesi –
 notoriamente in difficoltà con le lingue straniere – non capiscono una parola del dialetto fenicio della signorina K, questa si aiuta nella sua spiegazione con delle fotocopie illustrative in A3 che
 conserva arrotolate in dei tubi da pergamene e che tendono ogni volta a riarrotolarsi nonostante il
 suo gran _ganbaru_ nel tenerle spiegate reggendone le estremità con le mani, i gomiti e il mento. A
