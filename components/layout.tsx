@@ -19,7 +19,7 @@ const useStyles = makeStyles(({ breakpoints, spacing }) => ({
 		},
 		[breakpoints.down("xs")]: {
 			marginBottom: spacing(6),
-			padding: spacing(4, 2),
+			padding: spacing(4, 3.5),
 		},
 	},
 	headerDiv: {

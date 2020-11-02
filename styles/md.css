@@ -1,6 +1,7 @@
 p + p {
 	text-indent: 1em;
 }
-p + h5 {
-	margin-top: 0.625em !important;
+
+blockquote p {
+	text-indent: 0em;
 }

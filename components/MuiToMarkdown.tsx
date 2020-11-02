@@ -23,6 +23,10 @@ const styles = ({ breakpoints, spacing }: Theme) =>
 				lineHeight: "1.4375rem",
 			},
 		},
+
+		heading5: {
+			margin: "1.5em 0 .5em",
+		},
 		caption: {
 			fontWeight: 300,
 			fontSize: ".75rem",
@@ -38,9 +42,11 @@ const styles = ({ breakpoints, spacing }: Theme) =>
 		footnote: {},
 		listItem: {
 			marginTop: spacing(1),
+			listStylePosition: "outside",
 		},
-		header1: {
+		heading1: {
 			fontFamily: "Bebas Neue",
+			margin: "1.5em 0 .5em",
 		},
 		hr: {
 			border: "none",
@@ -69,7 +75,7 @@ const options = {
 				styles
 			)(({ classes, ...props }: { classes: any }) => (
 				<Typography
-					classes={{ root: classes.header1 }}
+					classes={{ root: classes.heading1 }}
 					variant="h3"
 					component="h2"
 					gutterBottom={true}
@@ -78,16 +84,32 @@ const options = {
 			)),
 		},
 		h2: {
-			component: Typography,
-			props: { gutterBottom: true, variant: "h3", component: "h3" },
+			component: withStyles(
+				styles
+			)(({ classes, ...props }: { classes: any }) => (
+				<Typography
+					classes={{ root: classes.heading5 }}
+					variant="h3"
+					component="h3"
+					{...props}
+				/>
+			)),
 		},
 		h3: {
 			component: Typography,
 			props: { gutterBottom: true, variant: "h4", component: "h4" },
 		},
 		h4: {
-			component: Typography,
-			props: { gutterBottom: true, variant: "h5", component: "h5" },
+			component: withStyles(
+				styles
+			)(({ classes, ...props }: { classes: any }) => (
+				<Typography
+					classes={{ root: classes.heading5 }}
+					variant="h5"
+					component="h5"
+					{...props}
+				/>
+			)),
 		},
 		p: {
 			component: withStyles(
@@ -106,7 +128,7 @@ const options = {
 			component: withStyles(
 				styles
 			)(({ classes, ...props }: { classes: any }) => (
-				<ul style={{ paddingLeft: "1.125rem" }} {...props}></ul>
+				<ul style={{ paddingLeft: 0 }} {...props}></ul>
 			)),
 		},
 		li: {
