@@ -7,6 +7,7 @@ tags: ["grandissimi", "antifascismo", "prigione", "cazzoduro"]
 # Antonio Gramsci, grandissimo nel pensiero ma anche nelle sopracciglia
 
 Parlavo proprio ieri in seduta intercontinentale con un carissimo *compagno* di come da un anno[^1] a questa parte il mio *sano e radicato disprezzo* per l'ideologia dominante dei nostri tempi[^2] si sia fatto più chiaro e distinto del solito, dunque di come l'idea di condividere la realtà con questo universo di ritardati a catena incapaci di sopravvivere più di trenta secondi senza comprare qualcosa o prendere le difese dei propri aguzzini mi renda estremamente felice del prolungarsi della pandemia e delle misure di isolamento che questa comporta.
+
 Nel corso della nostra pacatissima discussione, non del tutto negativa e costantemente guidata dalla luce universale del faro della speranza[^3], la nostra attenzione è caduta su due temi fondamentali:
 
 *   La totale assenza di strutture di riferimento, quale fu ad esempio per i nostri *antenati* il partito comunista[^4] col suo sistema di partecipazione scalabile, che partiva dalla tessera, di fatto roba buona al massimo per i pensionati, i disabili e i *comunisti ricchi*, fino ad arrivare alle azioni di sommossa e ai sabotaggi, che se mi permettete di dire sono roba di tutta un'altra categoria.
@@ -31,6 +32,7 @@ alla entrata in scena del quale voi del pubblico sugli spalti dovreste immaginar
 - **1898-1911**: Studente lavoratore già alle elementari, il Gramsci inizia la sua carriera scolastica in ritardo di un anno; alle elementari dorme sul banco; al ginnasio studia con professori di terza categoria; al liceo sembra non poter superare i minimi sindacali della sufficienza nonostante il senso di pena provato dagli insegnanti, che lo chiamano Tonino e gli danno le bottarelle sul capo come Benny Hill al vecchino di Benny Hill; e pure, a diciannove anni scrive che *i privilegi e le differenze sociali, essendo prodotto della società e non della natura, possono essere sorpassate*, indicando alla curva ancora giovanissimo le proprie intenzioni, riassumibili per il popolo refrattario al concetto nel modulo del 4-3-3 e nell'impostazione calcistica della scuola cecoslovacca di Zeman.
 
 - **1911-1915**: Toni parte per Torino, e da bravo immigrato meridionale e senza una lira patisce parecchio sia la fame che il freddo: io, al pensiero di certe stanzine senza riscaldamento del Nord benestante, non posso fare a meno di ricordare l'avaro infame ipocrita e ladro che mi affittava camera a Berlino, con le sue fisime sul riscaldamento e la corrente, e augurare a tutti i proprietari di casa che fanno la lesina sulle prime necessità degli inquilini tutte le pene e i turbamenti che generalmente vengono attribuiti ai residenti dell'inferno dei morti a testa in giù di carpenteriana memoria.
+
 In ogni caso il Gramsci non é me, che mi lascio distrarre ogni poco, anzi: lui non si fa contenere, partecipa alle attività di partito, si infervora, scrive, organizza, e spesso e con piacere fa la cianchetta a Togliatti, che di persona era noiosissimo e sicuramente se lo meritava, quando escono dal bar.
 
 #### Lavorini e robe del genere
@@ -40,7 +42,9 @@ In ogni caso il Gramsci non é me, che mi lascio distrarre ogni poco, anzi: lui 
 #### Il gabbio
 
 - **1928-1937**: Mentre la gente applaudiva il Duce e gli intellettuali di sistema si ammazzavano dal ridere mentre Gentile faceva le scorregge con la mano sotto l'ascella, il povero Toni, malato come sempre, veniva cacciato in una cella umida e infame al fine di farlo rimuginare un po' sul proprio ardimento e sulle proprie idee, che secondo certi suoi viscidissimi contemporanei altro non erano che pericolose, sbagliatissime e infingarde minacce per la buona riuscita della società[^10]. 
+
 Ma Toni che fa, si abbatte? Chiede alla morosa di pagargli la cauzione come nei film americani? Ma la minchia sai: non fa una piega, e inizia a scrivere e pensare, pensare e scrivere sul suo sgabellino da seconda elementare e con la penna fatta di cioccolato. E scrive DINAMITE PORCAMADONNA, DINAMITE!!!!!!!!!!
+
 E tutto questo perché Gramsci, al di là dei limiti che ogni pensatore politico si condanna ad avere in virtù del proprio essere partigiano, era un uomo grandissimo, infinito, e ciò nonostante legato a doppio filo alla realtà, un uomo *pessimista nell'intelletto e ottimista nella volontà*, al contempo capace di riconoscere con grandissima lucidità i limiti di quest'ultima e della propria contingenza individuale. E io allora, tra leggere anche soltanto la pagina di *Wikipedia* su Gramsci e andare a discutere del più e del meno con della gente che mette i *like* alle pagine della *Meloni* e del *Giornale*[^11] , che sbaglia la punteggiatura[^12] negli SMS, che insomma realizza con la propria esistenza la variante economica del *debito d'ossigeno*, ecco voi dite che io a questi riassunti tutto sommato e almeno da un punto di vista funzionale di qualità anche se scritti in un italiano da marcetta che nemmeno ai tempi di Giolitti dovrei preferire la seconda alternativa? Ma avete perso i'capo, avete perso.
 
 #### Lo scoppio

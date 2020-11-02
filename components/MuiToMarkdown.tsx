@@ -4,7 +4,6 @@ import { withStyles, createStyles } from "@material-ui/core/styles";
 import Typography from "@material-ui/core/Typography";
 import { Theme } from "@material-ui/core/styles/createMuiTheme";
 import ReactMarkdown from "markdown-to-jsx";
-
 const styles = ({ breakpoints, spacing }: Theme) =>
 	createStyles({
 		body1: {
@@ -72,20 +71,23 @@ const options = {
 				<Typography
 					classes={{ root: classes.header1 }}
 					variant="h3"
-					component="p"
+					component="h2"
 					gutterBottom={true}
 					{...props}
 				/>
 			)),
 		},
-		h2: { component: Typography, props: { gutterBottom: true, variant: "h3" } },
+		h2: {
+			component: Typography,
+			props: { gutterBottom: true, variant: "h3", component: "h3" },
+		},
 		h3: {
 			component: Typography,
-			props: { gutterBottom: true, variant: "h4" },
+			props: { gutterBottom: true, variant: "h4", component: "h4" },
 		},
 		h4: {
 			component: Typography,
-			props: { gutterBottom: true, variant: "h5", paragraph: true },
+			props: { gutterBottom: true, variant: "h5", component: "h5" },
 		},
 		p: {
 			component: withStyles(
@@ -95,7 +97,6 @@ const options = {
 					classes={{ root: classes.body1 }}
 					variant="body1"
 					component="p"
-					paragraph
 					{...props}
 				/>
 			)),

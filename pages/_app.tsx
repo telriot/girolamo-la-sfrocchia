@@ -7,7 +7,7 @@ import Router from "next/router";
 import * as gtag from "@lib/gtag";
 import { isProduction } from "public/config";
 import fontTheme from "@styles/font";
-
+import "@styles/md.css";
 isProduction &&
 	Router.events.on("routeChangeComplete", (url) => gtag.pageview(url));
 
