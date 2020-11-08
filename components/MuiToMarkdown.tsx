@@ -51,7 +51,16 @@ const styles = ({ breakpoints, spacing }: Theme) =>
 		hr: {
 			border: "none",
 			borderTop: "1px solid rgb(200,200,200)",
-			marginBottom: ".5rem",
+			margin: "1.875em 0 1.25em",
+			[breakpoints.down("md")]: {
+				marginTop: "1.6875em",
+			},
+			[breakpoints.down("sm")]: {
+				marginTop: "1.625em",
+			},
+			[breakpoints.down("xs")]: {
+				marginTop: "1.4375em",
+			},
 		},
 	});
 
@@ -128,7 +137,7 @@ const options = {
 			component: withStyles(
 				styles
 			)(({ classes, ...props }: { classes: any }) => (
-				<ul style={{ paddingLeft: 0 }} {...props}></ul>
+				<ul style={{ paddingLeft: "1.5em" }} {...props}></ul>
 			)),
 		},
 		li: {

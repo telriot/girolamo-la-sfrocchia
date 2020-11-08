@@ -44,17 +44,17 @@ const useStyles = makeStyles(({ breakpoints, spacing }) => ({
 		padding: spacing(0, 1),
 	},
 	subHeader: {
-		padding: spacing(0, 4, 6),
+		padding: spacing(0, 4, 1.5),
 		fontWeight: 300,
 		fontStyle: "italic",
-		[breakpoints.down("xs")]: {
-			padding: spacing(0, 4, 4),
+		[breakpoints.down("sm")]: {
+			padding: spacing(0, 4, 1.125),
 		},
-		[breakpoints.down(420)]: {
-			padding: spacing(0, 8, 4),
+		[breakpoints.down("xs")]: {
+			padding: spacing(0, 6, 1.125),
 		},
 		[breakpoints.down(340)]: {
-			padding: spacing(0, 6, 4),
+			padding: spacing(0, 2, 1.125),
 		},
 	},
 	main: {
@@ -102,12 +102,12 @@ export default function Layout({
 							</Link>
 
 							<Typography
-								variant="h6"
+								variant="h5"
 								component="h2"
 								align="center"
 								className={classes.subHeader}
 							>
-								Autore grandissimo e migliore di tutti
+								{"Autore grandissimo e migliore di\u00A0tutti"}
 							</Typography>
 							<NavbarTop postIds={postIds} />
 						</header>
