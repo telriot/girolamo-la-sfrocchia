@@ -7,7 +7,7 @@ import NavbarTop from "@components/NavbarTop";
 import Footer from "@components/Footer";
 const useStyles = makeStyles(({ breakpoints, spacing }) => ({
 	container: {
-		padding: spacing(4, 3),
+		padding: spacing(4, 3, 12),
 		minHeight: "100vh",
 		position: "relative",
 		maxWidth: "52.5rem",
@@ -16,10 +16,11 @@ const useStyles = makeStyles(({ breakpoints, spacing }) => ({
 		},
 		[breakpoints.down("sm")]: {
 			maxWidth: "44rem",
+			padding: spacing(4, 3, 21),
 		},
 		[breakpoints.down("xs")]: {
-			marginBottom: spacing(6),
-			padding: spacing(4, 2.5),
+			marginBottom: spacing(3),
+			padding: spacing(4, 2.5, 21),
 		},
 	},
 	headerDiv: {

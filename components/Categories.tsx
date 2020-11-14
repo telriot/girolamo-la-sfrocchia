@@ -1,5 +1,4 @@
 import { makeStyles } from "@material-ui/core/styles";
-import blue from "@material-ui/core/colors/blue";
 import Typography from "@material-ui/core/Typography";
 import Link from "@components/Link";
 import clsx from "clsx";
@@ -24,9 +23,9 @@ const useStyles = makeStyles(({ palette, spacing, breakpoints }) => ({
 	categoryLink: {
 		color: palette.text.primary,
 		padding: spacing(1, 1, 0, 0),
-
+		transition: "color .3s",
 		"&:hover": {
-			color: blue[700],
+			color: palette.primary.main,
 		},
 	},
 }));

@@ -18,7 +18,7 @@ export const getStaticProps: GetStaticProps = async () => {
 	};
 };
 
-const useStyles = makeStyles(({ breakpoints }) => ({
+const useStyles = makeStyles(({ breakpoints, palette }) => ({
 	container: {
 		height: "50vh",
 		display: "flex",
@@ -44,10 +44,12 @@ const useStyles = makeStyles(({ breakpoints }) => ({
 		},
 	},
 	link: {
-		color: blue[700],
+		color: palette.primary.main,
 		textDecoration: "none",
+		transition: "color .3s",
+
 		"&:hover": {
-			color: blue[400],
+			color: palette.primary.light,
 		},
 	},
 }));

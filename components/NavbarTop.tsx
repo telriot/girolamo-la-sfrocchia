@@ -12,7 +12,10 @@ const useStyles = makeStyles(
 			//flexDirection: "column",
 			alignItems: "flex-end",
 			justifyContent: "space-around",
+			marginTop: spacing(1),
+
 			[breakpoints.down("xs")]: {
+				marginTop: spacing(3),
 				alignItems: "center",
 				flexDirection: "column",
 			},
@@ -30,19 +33,21 @@ const useStyles = makeStyles(
 		},
 		randomDiv: {
 			cursor: "pointer",
-			"&:focus": { outline: "none", "& >*": { color: blue[700] } },
+			"&:focus": { outline: "none", "& >*": { color: palette.primary.main } },
 		},
 		navLink: {
 			fontFamily: "Bebas Neue",
 			fontSize: typography.h3.fontSize,
 			color: palette.text.primary,
 			padding: spacing(0.5, 0),
+			transition: "color .3s",
+
 			"&:hover": {
-				color: blue[700],
+				color: palette.primary.main,
 			},
 			"&:focus": {
 				outline: "none",
-				color: blue[700],
+				color: palette.primary.main,
 			},
 			[breakpoints.down("sm")]: {
 				fontSize: typography.h4.fontSize,
@@ -51,6 +56,9 @@ const useStyles = makeStyles(
 				fontSize: typography.h4.fontSize,
 			},
 		},
+		activeLink: {
+			color: palette.primary.main,
+		},
 		navLinkSm: {
 			fontSize: typography.h5.fontSize,
 			padding: spacing(0, 0.75),
@@ -58,9 +66,7 @@ const useStyles = makeStyles(
 				fontSize: typography.h6.fontSize,
 			},
 		},
-		activeLink: {
-			color: blue[700],
-		},
+
 		linkDiv: {},
 	})
 );
