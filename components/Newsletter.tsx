@@ -69,6 +69,7 @@ function Newsletter() {
 		setIsSubscribing(true);
 		try {
 			const response = await axios.post("/api/newsletter", { email });
+			console.log(response);
 			typeof response.data === "string" && setApiMessage(response.data);
 		} catch (error) {
 			console.log(error.response.data.error);

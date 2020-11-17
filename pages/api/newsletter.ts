@@ -9,9 +9,7 @@ const nodemailer = require("nodemailer");
 
 const defaultClient = SibApiV3Sdk.ApiClient.instance;
 const apiKey = defaultClient.authentications["api-key"];
-console.log(apiKey);
 apiKey.apiKey = process.env.SENDINBLUE_API_KEY;
-console.log(apiKey.apiKey);
 var partnerKey = defaultClient.authentications["partner-key"];
 partnerKey.apiKey = process.env.SENDINBLUE_API_KEY;
 
@@ -34,9 +32,9 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
 				pass: process.env.GMAIL_PWD,
 			},
 		});
-		let info = await transporter.sendMail({
+		await transporter.sendMail({
 			from: contacts.email, // sender address
-			to: `${req.body.email}, beniamino.tartarini@gmail.com`, // list of receivers
+			to: req.body.email, // list of receivers
 			subject: `GRLMLSFRCCH - Iscrizione ai terroristi`, // Subject line
 			text: newsletterSubMailText, // plain text body
 			html: newsletterSubMailHTML,
