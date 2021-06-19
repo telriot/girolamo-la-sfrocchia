@@ -8,7 +8,6 @@ import Layout from "@components/layout";
 import PostCard from "@components/PostCard";
 import { getTagsList, getPagesNumber } from "@lib/capolavori";
 import { getAllPostIds } from "@lib/posts";
-
 import Categories from "@components/Categories";
 import Pagination from "@material-ui/lab/Pagination";
 

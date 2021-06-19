@@ -21,8 +21,6 @@
     "gray-matter": "^4.0.2",
     "markdown-to-jsx": "^6.11.4",
     "next": "^9.5.5",
-    "next-on-netlify": "^2.3.2",
-    "nodemailer": "^6.4.16",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "sib-api-v3-sdk": "^8.0.2"
