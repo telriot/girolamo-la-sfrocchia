@@ -1,7 +1,7 @@
 import { makeStyles } from "@material-ui/core/styles";
 import NavbarTop from "@components/NavbarTop";
 import Copyright from "./Copyright";
-import Newsletter from "./Newsletter";
+// import Newsletter from "./Newsletter";
 
 const useStyles = makeStyles((theme) => ({
 	footer: {
@@ -12,7 +12,7 @@ const useStyles = makeStyles((theme) => ({
 		padding: theme.spacing(3),
 		display: "flex",
 		alignItems: "flex-start",
-		justifyContent: "space-between",
+		justifyContent: "center",
 		[theme.breakpoints.down("sm")]: {
 			flexDirection: "column",
 			alignItems: "center",
@@ -31,9 +31,9 @@ export default function Footer({ postIds }: { postIds: string[] }) {
 
 	return (
 		<footer className={classes.footer}>
-			<div className={classes.newsletterGroup}>
+			{/* <div className={classes.newsletterGroup}>
 				<Newsletter />
-			</div>
+			</div> */}
 			<div className={classes.navGroup}>
 				<NavbarTop postIds={postIds} small={true} />
 				<Copyright />
