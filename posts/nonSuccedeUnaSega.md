@@ -27,9 +27,9 @@ Considerazioni di natura qualitativa a parte, questo lavoro mi ha permesso di ve
 
 #### Essere Elon Musk
 
-La Repubblica è finalmente arrivata alla ventesima puntata di Essere Elon Musk, rubrica di aggiornamento circa vita e opere del noto magnate e delle sue _fantastiche_ invenzioni, come ad esempio i lanciafiammi portatili e la mascella più larga della fronte. 
+La Repubblica è finalmente arrivata alla ventesima puntata di Essere Elon Musk, rubrica di aggiornamento circa vita e opere del noto magnate, famoso alle orecchie del popolo per le sue _fantastiche_ invenzioni, come ad esempio i lanciafiammi portatili e la mascella più larga della fronte. 
 
-Tralasciando il personaggio in é e per é[^10], fatico a trovare parole diverse dai soliti _porcamadonna_ e _dioladro_ di fronte alla bruttezza di queste campagne pubblicitarie di portata intercontinentale mascherate da giornalismo scientifico, e mi auguro che tutta l'equipe[^11] che si nasconde dietro a questo piccolo capolavoro della miseria umana viva a lungo e piena di emorroidi. Se avessi ancora vent'anni e la passione per le cause perse che li accompagna scriverei senz'altro un paio di righe circa la commercializzazione di _tutto_ e il declino dei costumi, ma insomma ci siamo capiti.
+Tralasciando il personaggio in sé e per sé[^10], fatico a trovare parole diverse dai soliti _porcamadonna_ e _dioladro_ di fronte alla bruttezza di queste campagne pubblicitarie di portata intercontinentale mascherate da giornalismo scientifico, e mi auguro che tutta l'equipe[^11] che si nasconde dietro a questo piccolo capolavoro della miseria umana viva a lungo e piena di emorroidi. Se avessi ancora vent'anni e la passione per le cause perse che li accompagna scriverei senz'altro un paio di righe circa la commercializzazione di _tutto_ e il declino dei costumi, ma insomma ci siamo capiti.
 
 #### Farsi i filmini
 
