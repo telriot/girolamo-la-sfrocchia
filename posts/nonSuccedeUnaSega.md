@@ -37,13 +37,13 @@ Ho fatto l'errore di menzionare il problema della commercializzazione di _ogni c
 
 #### Per concludere
 
-Io anche oggi ho cercato di spremere lo spremibile e consegnare del materiale eccellente ai miei due[^13] appassionati lettori, e ciò in barba alla mancanza di cose, persone, avvenimenti che punteggia la vacuità delle mie giornate. Non è detto che le cose debbano rimanere quelle che sono: con l'arrivo[^14] dei vaccini pare che torneremo a vivere, entro certi limiti, una vita _normale_. Non ci resta che a questo punto che sperare quello che sperava il tizio della barzelletta su Hitler in Argentina: che questi eventi possano ripetersi, ma questa volta, per l'amor d'Iddio, _cattivi_.
+Io anche oggi ho cercato di spremere lo spremibile e consegnare del materiale eccellente ai miei due[^13] appassionati lettori, e ciò in barba alla mancanza di cose, persone, avvenimenti che punteggia la vacuità delle mie giornate. Non è detto che le circostanze debbano rimanere quelle che sono: con l'arrivo[^14] dei vaccini pare che torneremo a vivere, entro certi limiti, una vita _normale_. Non ci resta che a questo punto che sperare quello che sperava il tizio della barzelletta su Hitler in Argentina: che questi eventi possano ripetersi, ma questa volta, per l'amor d'Iddio, _cattivi_.
 
 ___
 
 [^1]: Ma quello chi era? Lo conosci tu? Mio cugino? Ma io ne ho di cugini? Eccetera.
 [^2]: Sua zia.
-[^3]: A patto però che siano vecchi, pesanti e pericolosi. A proposito di macchinari: ogni volta che sento mio babbo al telefono mi racconta di come le _seghe giapponesi_ siano proprio seghe di pregiatissima fattura, e a me un po' viene da ridere ma mi trattengo, perché poi sennò mi direbbe _ah, che, ora non si può nemmeno dire seghe? eh?_ eccetera.
+[^3]: A patto però che siano vecchi, pesanti e pericolosi. A proposito di macchinari: ogni volta che sento mio babbo al telefono mi racconta di come le _seghe giapponesi_ siano proprio seghe di pregiatissima fattura, e a me un po' viene da ridere ma mi trattengo, perché poi sennò mi direbbe _ah, che, ora non si può nemmeno dire seghe? eh?_ e cosí via.
 [^4]: I dettagli non li so, e comunque a me non dice mai nulla nessuno.
 [^5]: Questa disposizione all'infermità credo dipenda a stretto giro dalla mia sfrenata voglia di vivere e dall'entusiasmo che provo ogni mattino di fronte alla prospettiva di una nuova giornata.
 [^6]: Comunque sempre meglio di quella che avete a casa vostra.
