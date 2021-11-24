@@ -59,5 +59,5 @@ ___
 [^13]: Nonnino. Non per una questione di maturitá intellettuale, come inizialmente immaginavo, ma per quel discorso molto piuú semplice secondo il quale i vecchi sono anche immancabilmente rincoglioniti.
 [^14]: Il lettore acuto (senza nulla levare all’altro lettore, che comunque in qualche modo se la cava e mangia anche lui) converrá senz’altro con me quando dico che siamo ancora troppi e questo virus non ha mantenuto le promesse iniziali, per cui l’unica speranza é che qualcuno arrivi, si rimbocchi le maniche, e si dia da fare come i grandi del secolo passato, e io mi auguro che il *Caro leader* possa essere questo qualcuno.
 [^15]: Non me ne voglia, ognuno sa quel che sa.
-[^16]: Ho come idea di poter iniziare a parlare al signolare senza schiantarmi contro grossi margini di errore, ormai anche quello meno sveglio lo abbiamo perso per strada.
+[^16]: Ho come idea di poter iniziare a parlare al singolare senza schiantarmi contro grossi margini di errore, ormai anche quello meno sveglio lo abbiamo perso per strada.
 [^17]: Ma si dice cosí? Non credo mica, ma insomma, siccome qui é tutto a sbafo ci vorrá pur qualcosa di inadeguato, come il battuto nella pera battuta, che vada a giustificare questa *gratuititá* (appunto).
