@@ -8,7 +8,7 @@ tags: ["vacanze", "politica", "caroleader", "comunismo", "maleducazione"]
 
 #### Maleducazione
 
-Approfittando di una pausa lavorativa non retribuita concessami dagli onnipotenti negrieri della rete, io e Juri siamo saliti sulla nostra autovettura privata e ci siamo lanciati all'avventura, solcando impavidi le strette via del Giappone meridionale a velocitá vicine a quella del suono[^1].
+Approfittando di una pausa lavorativa non retribuita concessami dagli onnipotenti negrieri della rete, io e Juri siamo saliti sulla nostra autovettura privata e ci siamo lanciati all'avventura, solcando impavidi le strette vie del Giappone meridionale a velocitá vicine a quella del suono[^1].
 
 Dal momento che i miei salari da tecnico delle scienze sono cosa piuttosto recente e comunque nulla di che, al momento della definizione delle modalitá esplorative delle penisole Kagoshimesi abbiamo optato per l’opzione che piú si confá alla nostra condizione[^2], vale a dire il campeggio gratuito in mezzo alla natura. D’altra parte siamo gente semplice, abituata a dormire per terra e senza grosse pretese, e per quanto riguarda i lussi ci contentiamo di farci il caffé con gli occhi cisposi alla mattina sul fornelletto. Non che ci sia poi da lamentarsi: in Giappone i campeggi pubblici sono tenuti meglio dei Giardini di Boboli[^3] e durante la settimana non ci si trova quasi nessuno, al massimo un motociclista di passaggio con la sua tenda monopersona e il micro-equipaggiamento da sbarco lunare. Il resto della civiltá, per chi ancora non lo avesse capito, é troppo impegnato a _fatturare_ e a cercare parcheggio allo _AEON_[^4] piú vicino.
 
