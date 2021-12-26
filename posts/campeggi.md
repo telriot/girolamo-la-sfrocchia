@@ -56,7 +56,7 @@ ___
 [^10]: Per i piú ignoranti dei lettori da casa, l’estero.
 [^11]: E magari anche tatuati, quei porci cardiopatici ignoranti ladri cani.
 [^12]: Non le piace perdere tempo: come quando mi vede rilassarmi un attimo e spaziare nelle metafisiche del concetto e mi dice *oh, ma allora? Il caffé si macina da solo?*.
-[^13]: Nonnino. Non per una questione di maturitá intellettuale, come inizialmente immaginavo, ma per quel discorso molto piuú semplice secondo il quale i vecchi sono anche immancabilmente rincoglioniti.
+[^13]: Nonnino. Non per una questione di maturitá intellettuale, come inizialmente immaginavo, ma per quel discorso molto piú semplice secondo il quale i vecchi sono anche immancabilmente rincoglioniti.
 [^14]: Il lettore acuto (senza nulla levare all’altro lettore, che comunque in qualche modo se la cava e mangia anche lui) converrá senz’altro con me quando dico che siamo ancora troppi e questo virus non ha mantenuto le promesse iniziali, per cui l’unica speranza é che qualcuno arrivi, si rimbocchi le maniche, e si dia da fare come i grandi del secolo passato, e io mi auguro che il *Caro leader* possa essere questo qualcuno.
 [^15]: Non me ne voglia, ognuno sa quel che sa.
 [^16]: Ho come idea di poter iniziare a parlare al singolare senza schiantarmi contro grossi margini di errore, ormai anche quello meno sveglio lo abbiamo perso per strada.
