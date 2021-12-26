@@ -8,7 +8,7 @@ tags: ["grandissimi", "pubblicitari dimmerda", "cazzoduro", "morire giovani", "e
 
 Mia madre, nelle telefonate intorno alle feste di Natale, si ostina a chiedermi sempre come celebreremo la nascita del *bambino d'oro* nonostante io viva in Giappone da anni e le abbia spiegato a ogni giro di boa che qui il Natale non lo si festeggia, e non soltanto perchè siamo a casa mia e non alla parrocchia delle Giovani Marmotte, ma proprio perchè siamo in Giappone, qui del Messia non gliene frega nulla a nessuno e anzi, questa cosa di *Santa-san* aiuta pure a fatturare per cui si lavora il doppio.
 
-Capiamoci bene: a lei non é che importi del Cristo in perchè e per perchè, anche perchè se cosí fosse avrei dovuto affogarla da bambino. Lei si preoccupa invece perchè il suo pargolo non viene esposto alle comandate adunanze di societá e relative grandi abbuffate[^1]: teme che insomma in questa terra di cacariso suo figlio muoia in solitudine, come succedeva ai marinai che partivano una volta per i viaggi di esplorazione, ma senza il contesto romantico che ci si immagina pensando a quelli. 
+Capiamoci bene: a lei non é che importi del Cristo in sè e per sè, anche perchè se cosí fosse avrei dovuto affogarla da bambino. Lei si preoccupa invece perchè il suo pargolo non viene esposto alle comandate adunanze di societá e relative grandi abbuffate[^1]: teme che insomma in questa terra di cacariso suo figlio muoia in solitudine, come succedeva ai marinai che partivano una volta per i viaggi di esplorazione, ma senza il contesto romantico che ci si immagina pensando a quelli. 
 
 In ogni caso, mentre mia madre si preoccupa per la mia salute evocando lo spettro di possibili dimagrimenti e invitandomi a preparare almeno una *zuppa imperiale*[^2], io mi ritrovo ad avere poco da fare a causa della temporanea interruzione delle attivitá lavorative[^3], e una volta finito di preparare il cervo levato dal congelatore, messo a bagno il riso glutinoso per i *mochi* di fine anno e fritte le solite trenta ciambelle glassate finisco per farmi carico del fardello piú spiacevole che mai sia toccato in sorte agli uomini, come me, di sano e chiaro intelletto: *la libertá*[^4].
 
@@ -24,7 +24,7 @@ Ultimamente Juri torna a casa dalla palestra cantando *Last Christmas* di George
 
 Siccome Juri é *straniera* e ha passato i primi diciotto anni della propria vita a fare le piroette in piscina, l'esistenza di questi fenomeni culturali dell'occidente é per lei una nozione vaghissima, allo stesso modo in cui lo sono per me le parole del *sutra di Kannon*. Per questo motivo ho provato a spiegarle che George Michael era un omosessuale *marcio* vissuto perlopiú negli anni Ottanta, dedito soprattutto a mettersi in tasca balle di quattrini a forza di pubblicitá della *coca cola dietetica*, la cui omosessualitá é stata a lungo negata, tanto dal pubblico di ragazzine confuse le cui paghette di fatto lo hanno reso popolare quanto dai lungimiranti interessi delle multinazionali dell'epoca, che insieme ai propri prodotti cercavano di promuovere - senza urtare le sensibilitá del pubblico loro contemporaneo - l'immagine patetica e priva di contenuti del consumatore a venire, con la semplice intenzione di plasmare le menti delle nuove generazioni e ridurre quanto piú possibile la reticenza di queste a farselo mettere nel culo col sale e con la sabbia.
 
-In ogni caso, nonostante la sua solita diffidenza iniziale nei confronti delle mie affermazioni, una diffidenza probabilmente rafforzata dalla mia naturale disposizione al discorso euristico[^7], a Juri sono bastati i primi venti secondi del video della canzone di cui sopra, con particolare attenzioni ai fotogrammi in cui *Georgie* esce dalla *jeep* e saluta, per iniziare a ridere molto e a dirmi che *é vero, hai ragione*.
+In ogni caso, nonostante la sua solita diffidenza iniziale nei confronti delle mie affermazioni, una diffidenza probabilmente rafforzata dalla mia naturale disposizione al discorso euristico[^7], a Juri sono bastati i primi venti secondi del video della canzone di cui sopra, con particolare attenzione ai fotogrammi in cui *Georgie* esce dalla *jeep* e saluta, per iniziare a ridere molto e a dirmi che *é vero, hai ragione*.
 
 #### Sull'origine della conoscenza
 
@@ -36,7 +36,7 @@ A fugare ogni dubbio dalla confusione che regna nei pensieri dei maldicenti bast
 
 nel contesto, oggi improponibile, di una battaglia ideologica contro la pubblicitá durata una vita.
 
-Basta bocchini ai morti peró. Al momento in cui scrivo, *Last Christmas* degli *Wham!* ha 680,531,342 visualizzazioni su Youtube, e questa é una selezione dei commenti piú popolare tra quelli recenti:
+Basta bocchini ai morti peró. Al momento in cui scrivo, *Last Christmas* degli *Wham!* ha 680,531,342 visualizzazioni su Youtube, e questa é una selezione dei commenti piú popolari tra quelli recenti:
 
 > I cant imagine how people celebrated Christmas before this song was made. And the atmosphere this song brings is... just wonderful.
 
