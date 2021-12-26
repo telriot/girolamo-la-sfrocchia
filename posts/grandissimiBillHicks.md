@@ -31,6 +31,7 @@ In ogni caso, nonostante la sua solita diffidenza iniziale nei confronti delle m
 Conoscendo la meschina disposizione d'animo della maggior parte dei lettori di queste righe[^9], giá sento affollarsi nelle loro menti a ruzzolina domande del tipo *e te come fai a sapere tutte queste cose su George Michael?* insieme a tutta una serie di ovvie e banali allusioni circa le mie preferenze in ambito sessuale e culturale.
 
 A fugare ogni dubbio dalla confusione che regna nei pensieri dei maldicenti basti il nome di uno dei piú grandissimi di sempre, William Melvin Hicks, e un rimando alle sue analisi dell'opera omnia del *Michael* di cui sopra, del quale dice
+
 >Boy, I tell you, if money had a dick, George Michaels would be a flamin' faggot. [...] He's a demon set loose on the Earth to lower the standards. End of fucking story.
 
 nel contesto, oggi improponibile, di una battaglia ideologica contro la pubblicitá durata una vita.
