@@ -1,6 +1,6 @@
 ---
 title: "I più grandissimi di sempre #4: Bill Hicks"
-date: "2021-11-26"
+date: "2021-12-26"
 tags: ["grandissimi", "pubblicitari dimmerda", "cazzoduro", "morire giovani", "eroismo"]
 ---
 
